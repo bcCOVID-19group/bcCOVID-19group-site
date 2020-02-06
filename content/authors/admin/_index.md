@@ -1,6 +1,6 @@
 ---
 # Display name
-name: idmodel.org 
+name: epicoronahack.ca 
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: We model infectious diseases.
+role: Hackathon for modeling the 2019-nCoV outbreak.
 
 # Organizations/Affiliations
 # organizations:
