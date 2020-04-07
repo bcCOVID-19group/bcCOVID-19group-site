@@ -51,5 +51,8 @@ hero_media = "1920px-2019-nCoV-CDC-23312_without_background.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
+The BC COVID-19 Group works on rapid response modelling of the COVID-19 pandemic, with a special focus on British Columbia and Canada.
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/bcCOVID-19group/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+The interdisciplinary Group is led by [Caroline Colijn (SFU)](https://www.sfu.ca/math/department/faculty/colijn--caroline.html) and [Dan Coombs (UBC)](https://www.math.ubc.ca/~coombs/) with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).
+
+
