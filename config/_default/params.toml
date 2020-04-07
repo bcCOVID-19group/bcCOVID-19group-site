@@ -41,10 +41,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "idmodel"
+org_name = "bcCOVID-19group"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "We model infectious diseases."
+description = "The mission of the BC COVID-19 Rapid Response Modelling Groupis to understand and mitigate the COVID-19 pandemic."
 
 ############################
 ## Site Features
@@ -67,7 +67,7 @@ diagram = true
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true 
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
@@ -81,7 +81,7 @@ privacy_pack = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "example@site.org"
+email = ""
 phone = ""
 
 # Address
@@ -164,7 +164,7 @@ plugins_js  = []
 # An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
-  gravatar = false
+  gravatar = false 
 
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
