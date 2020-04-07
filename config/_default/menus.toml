@@ -23,10 +23,10 @@
  url = "#featured"
  weight = 40
 
-# [[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 60
+ [[main]]
+  name = "Sponsors"
+  url = "#sponsors"
+  weight = 60
 
 [[main]]
   name = "Team"
