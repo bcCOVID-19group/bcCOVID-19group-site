@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Talk Template"
+title: "Real Time Modelling of the 2020 Coronavirus Epidemic"
 event:
-event_url:
-location:
+event_url: https://www.phas.ubc.ca/real-time-modelling-2020-coronavirus-epidemic-online
+location: online
 address:
   street:
   city:
@@ -12,20 +12,19 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: "I will talk about mathematical modelling reports from around the world for the emerging novel coronavirus epidemic. I will explain the mathematical methods, findings and potential significance. I will also try to link these reports to events in BC. This will be a significantly updated version of the talk I gave on January 31 in the Mathematics Department."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-04-07T18:10:48-07:00
-date_end: 2020-04-07T18:10:48-07:00
+date: 2020-03-09T16:00:00-07:00
+date_end:  2020-03-09T17:00:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-04-07T18:10:48-07:00
+publishDate: 2020-04-08T08:58:11-07:00
 
-authors: []
-tags: ["template"]
-categories: ["howto"]
+authors: ["dancoombs"]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -47,11 +46,11 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: https://www.math.ubc.ca/~coombs/Coombs.CoronaTalk.Mar19.pdf
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://www.youtube.com/watch?v=dLVLEZMzIOk
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -67,5 +66,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-A template file for a talk.
