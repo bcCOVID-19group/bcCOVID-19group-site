@@ -20,10 +20,10 @@ role: Professor, UBC
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: lorem ipsum 
+bio: (add short bio in author's page)
 
 interests:
-- Kayaking
+- Infectious disease modelling
 - Computational techniques
 - Mathematical Biology
 
@@ -46,7 +46,7 @@ education:
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/pimsmath
+  link: https://twitter.com/dancoombsubc
 - icon: github
   icon_pack: fab
   link: https://github.com/bcCOVID-19group
@@ -66,4 +66,4 @@ user_groups:
 ---
 
 
-Lorem ipsum dolor
+(Text about the author, bottom of author's page)
