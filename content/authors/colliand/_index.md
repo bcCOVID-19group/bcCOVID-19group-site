@@ -20,7 +20,7 @@ organizations:
   url: "https://math.ubc.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: James Colliander serves as the Director of the Pacific Institute for the Mathematical Sciences.
+bio: # James Colliander serves as the Director of the Pacific Institute for the Mathematical Sciences.
 
 interests:
 - PDE
