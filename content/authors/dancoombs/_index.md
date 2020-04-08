@@ -20,7 +20,7 @@ role: Professor, UBC
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: (add short bio in author's page)
+bio: (`add short bio in author's page`)
 
 interests:
 - Infectious disease modelling
@@ -66,4 +66,4 @@ user_groups:
 ---
 
 
-(Text about the author, bottom of author's page)
+(`Text about the author, bottom of author's page`)
