@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b746df38-2c47-409c-9ade-e35d442e20dd/deploy-status)](https://app.netlify.com/sites/silly-brahmagupta-1f7d22/deploys)
 
 The bccovid-19group.ca site is running a version of the Academic Hugo Theme/system. This post provides an overview on how to contribute to the site and how the site can be used to support the research organization. (This content also appears in the README.md file.)
 
