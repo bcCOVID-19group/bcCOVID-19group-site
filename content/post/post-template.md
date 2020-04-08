@@ -4,9 +4,9 @@
 title: "Post Template"
 subtitle: ""
 summary: ""
-authors: [carolinecolijn]
-tags: []
-categories: []
+authors: [colliand]
+tags: ["template"]
+categories: ["howto"]
 date: 2020-04-07T16:01:04-07:00
 lastmod: 2020-04-07T16:01:04-07:00
 featured: false
@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-Enter the Post text here.
+A template file for a post. 

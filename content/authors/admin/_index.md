@@ -1,6 +1,6 @@
 ---
 # Display name
-name: BC COVID-19 Rapid Response Modelling Group
+name: BC COVID-19 Modelling Group
 
 # Username (this should match the folder name)
 authors:
@@ -20,7 +20,7 @@ role:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mathematical modeling and 
+bio: 
 
 interests:
 - Mathematical Modeling

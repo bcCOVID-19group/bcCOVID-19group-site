@@ -1,3 +1,33 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Site Overview "
+subtitle: ""
+summary: ""
+authors: ["colliand"]
+tags: ['template']
+categories: ['howto']
+date: 2020-04-07T18:46:03-07:00
+lastmod: 2020-04-07T18:46:03-07:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
 
 The bccovid-19group.ca site is running a version of the Academic Hugo Theme/system. This post provides an overview on how to contribute to the site and how the site can be used to support the research organization. (This content also appears in the README.md file.)
 
@@ -65,4 +95,4 @@ The files in the `project` directory describe a project for the Group. While car
 + Posts
 + Publications
 
-(We could also add `Talks`)
+(We could also add `Talks`.)
