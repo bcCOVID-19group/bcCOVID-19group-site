@@ -29,7 +29,7 @@ projects: []
 ---
 
 
-The bccovid-19group.ca site is running a version of the Academic Hugo Theme/system. This post provides an overview on how to contribute to the site and how the site can be used to support the research organization. (This content also appears in the README.md file.)
+This site is running a version of the Academic Hugo Theme/system. This post provides an overview on how to contribute to the site and how the site can be used to support the research organization. (This content also appears in the README.md file.)
 
 ## How to contribute to website development?
 
@@ -52,7 +52,7 @@ git submodule update --init --recursive
 
 ## How does the research organization work?
 
-This site is designed to support a team of people (called `authors`) to collaborate on `projects` while producing outputs (`posts`, `publications`) that can be shared on the web. The content is developed in Markdown (and potentially R Markdown) files with YAML top matter.
+This site is designed to support a team of people (called `authors`) to collaborate on `projects` while producing outputs (`posts`, `talks`, `publications`) that can be shared on the web. The content is developed in Markdown (and potentially R Markdown) files with YAML top matter.
 
 ### Team
 
@@ -86,13 +86,13 @@ The people in the site can belong to groups (`Researchers`, `Support`) and are s
 
 ### Projects
 
-The files in the `project` directory describe a project for the Group. While carrying out work on a project, collaborators will generate outputs (`posts`, `publications`).
+The files in the `project` directory describe a project for the Group. While carrying out work on a project, collaborators will generate outputs (`posts`, `talks`, `publications`).
 
 
 
 ### Outputs
 
 + Posts
++ Talks
 + Publications
 
-(We could also add `Talks`.)
