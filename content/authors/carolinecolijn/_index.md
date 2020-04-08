@@ -20,7 +20,7 @@ role: Canada 150 Chair, SFU
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mathematical modeling and 
+bio: (`add a short bio in authors/carolinecolijn`)
 
 interests:
 - Infectious Disease Modelling
@@ -46,7 +46,7 @@ education:
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/pimsmath
+  link: https://twitter.com/carolinecolijn
 - icon: github
   icon_pack: fab
   link: https://github.com/bcCOVID-19group
@@ -66,4 +66,4 @@ user_groups:
 ---
 
 
-Lorem ipsum dolor
+(`text can be added at bottom of author's page`)
