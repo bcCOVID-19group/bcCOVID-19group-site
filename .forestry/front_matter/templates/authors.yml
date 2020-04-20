@@ -1,0 +1,62 @@
+---
+label: Authors
+hide_body: false
+fields:
+- type: text
+  name: name
+  label: name
+- type: list
+  name: authors
+  label: authors
+- type: boolean
+  name: superuser
+  label: superuser
+- type: text
+  name: role
+  label: role
+- type: field_group_list
+  name: organizations
+  label: organizations
+  fields:
+  - type: text
+    name: name
+    label: name
+- type: list
+  name: interests
+  label: interests
+- type: field_group
+  name: education
+  label: education
+  fields:
+  - type: field_group_list
+    name: courses
+    label: courses
+    fields:
+    - type: text
+      name: course
+      label: course
+    - type: text
+      name: institution
+      label: institution
+    - type: number
+      name: year
+      label: year
+- type: field_group_list
+  name: social
+  label: social
+  fields:
+  - type: text
+    name: icon
+    label: icon
+  - type: text
+    name: icon_pack
+    label: icon_pack
+  - type: text
+    name: link
+    label: link
+- type: text
+  name: email
+  label: email
+- type: list
+  name: user_groups
+  label: user_groups
