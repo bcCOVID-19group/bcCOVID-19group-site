@@ -21,6 +21,6 @@ columns = "2"
 </div>
 <div class="col-lg-1">&nbsp;</div>
 <div class="col-lg-3 sponsor">
-    <a href="https://ubc.ca" target="_blank"><img src="img/ubc-logo.png" alt="University of British Columbia" /></a>
+    <a href="https://ubc.ca" target="_blank"><img src="img/UBC-logo-2018-crest-blue-rgb72.png" alt="University of British Columbia" /></a>
 </div>
 </div>

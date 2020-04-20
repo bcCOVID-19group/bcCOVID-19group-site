@@ -13,31 +13,31 @@ superuser: false
 role: Professor, UBC
 
 # Organizations/Affiliations
-# organizations:
-# - name: Simon Fraser University
+organizations:
+ - name: University of British Columbia 
 #  url: ""
 # - name: Pacific Institute for the Mathematical Sciences
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: lorem ipsum 
+bio: 
 
 interests:
-- Kayaking
+- Infectious disease modelling
 - Computational techniques
 - Mathematical Biology
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+# year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+# year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,7 +46,7 @@ education:
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/pimsmath
+  link: https://twitter.com/dancoombsubc
 - icon: github
   icon_pack: fab
   link: https://github.com/bcCOVID-19group
@@ -66,4 +66,3 @@ user_groups:
 ---
 
 
-Lorem ipsum dolor
