@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "1920px-2019-nCoV-CDC-23312_without_background.png"
+hero_media = "nCoV-CDC-23312.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
