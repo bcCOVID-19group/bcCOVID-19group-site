@@ -80,11 +80,14 @@ The rest of us are collectively responsible for continuing the other social dist
 {{< figure src="./figure.png" title="Figure 1." caption="">}}
 
 
-**Figure Legend.** Figure 1. illustrates the collapse of contact tracing once the threshold number of cases (*) is reached. (A) Below the threshold, case numbers are controlled (green curve), but once above the threshold, active case numbers grow exponentially (orange curve, note log scale). (B) Here, I assume that the ability of contact tracing to identify and isolate cases declines logistically from max towards zero as cases rise in number:
+**Legend.** Figure 1. illustrates the collapse of contact tracing once the threshold number of cases (*) is reached. (A) Below the threshold, case numbers are controlled (green curve), but once above the threshold, active case numbers grow exponentially (orange curve, note log scale). (B) Here, I assume that the ability of contact tracing to identify and isolate cases declines logistically from max towards zero as cases rise in number:
    
    
 $$
 f(I)=\frac{\mbox{max}}{(1-\alpha)+ \alpha^{(1-I/{K_m} )} (1-α)^{(I/{K_m} )} }
 $$
 
-$K_m$ is the case number $I$ at which contact tracing is half as effective as when few people are infected, while α determines the rate of decline in efficacy.  (C) Other measures that reduce the spread of the disease and lower $R_0$ raise the threshold, allowing contact tracing to work longer. Parameters: $K_m = 400, \alpha = 0.005, \mbox{max} = 0.3, \kappa = 0.1, R_0 = \frac{β S}{\kappa} = 3$, unless noted otherwise.
+$K_m$ is the case number $I$ at which contact tracing is half as effective as when few people are infected, while α determines the rate of decline in efficacy.  (C) Other measures that reduce the spread of the disease and lower $R_0$ raise the threshold, allowing contact tracing to work longer. Parameters: $K_m = 400, \alpha = 0.005, \mbox{max} = 0.3, \kappa = 0.1, R_0 = \frac{β S}{\kappa} = 3$, unless noted otherwise. Alternative parameters can be explored on this app: [https://shiney.zoology.ubc.ca/otto/ContactTracingLimits/]([https://shiney.zoology.ubc.ca/otto/ContactTracingLimits/) or in the frame below.
+
+
+<iframe width="800" height="900" scrolling="no" frameborder="no"  src="https://shiney.zoology.ubc.ca/otto/ContactTracingLimits"> </iframe>
