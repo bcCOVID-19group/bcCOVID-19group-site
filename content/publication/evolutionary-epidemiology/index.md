@@ -1,33 +1,41 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Publication Template"
-authors: []
-date: 2020-04-07T18:11:42-07:00
-doi: ""
-draft: true
+title: "On the evolutionary epidemiology of SARS-CoV-2"
+authors: [Troy day, Sylvain Gandon, Sébastian Lion, Sarah P. Otto]
+date: 2020-06-12T09:22:37-07:00
+doi: "10.1016/j.cub.2020.06.031"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-04-07T18:11:42-07:00
+publishDate: 2020-06-12T09:22:37-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Current Biology"
 publication_short: ""
 
-abstract: ""
+abstract: >
+  There is no doubt that the novel coronavirus SARS-CoV-2 that causes COVID-19 is
+  mutating and thus has the potential to adapt during the current pandemic. Whether this
+  evolution will lead to changes in the transmission, the duration, or the severity of the
+  disease is not clear. This has led to considerable scientific and media debate, from raising
+  alarms about evolutionary change to dismissing it. Here we review what little is currently
+  known about the evolution of SARS-CoV-2 and extend existing evolutionary theory to
+  consider how selection might be acting upon the virus during the COVID-19 pandemic.
+  While there is currently no definitive evidence that SARS-CoV-2 is undergoing further
+  adaptation, continued, evidence-based, analysis of evolutionary change is important so that
+  public health measures can be adjusted in response to substantive changes in the infectivity
+  or severity of COVID-19. 
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["template"]
-categories: ["howto"]
-featured: false
+tags: ["epidemiology"]
+categories: ["articles"]
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -37,7 +45,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.cell.com/action/showPdf?pii=S0960-9822%2820%2930847-2
 url_code:
 url_dataset:
 url_poster:
@@ -68,5 +76,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-A template file for announcing a publication.
