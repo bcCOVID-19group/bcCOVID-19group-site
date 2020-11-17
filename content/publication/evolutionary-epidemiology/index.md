@@ -1,6 +1,10 @@
 ---
 title: "On the evolutionary epidemiology of SARS-CoV-2"
-authors: [Troy day, Sylvain Gandon, Sébastian Lion, Sarah P. Otto]
+authors: 
+  - Troy day
+  - Sylvain Gandon
+  - Sébastian Lion
+  - sallyotto
 date: 2020-06-12T09:22:37-07:00
 doi: "10.1016/j.cub.2020.06.031"
 

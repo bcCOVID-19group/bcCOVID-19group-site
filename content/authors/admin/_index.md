@@ -1,6 +1,6 @@
 ---
 # Display name
-name: BC COVID-19 Modelling Group
+title: BC COVID-19 Modelling Group
 
 # Username (this should match the folder name)
 authors:

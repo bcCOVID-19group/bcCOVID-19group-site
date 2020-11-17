@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Caroline Colijn
+title: Caroline Colijn
 
 # Username (this should match the folder name)
 authors:
@@ -64,6 +64,3 @@ email: ""
 user_groups:
 - Researchers 
 ---
-
-
-(`text can be added at bottom of author's page`)
