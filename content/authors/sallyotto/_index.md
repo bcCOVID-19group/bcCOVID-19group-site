@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sarah "Sally" Otto
+title: Sarah "Sally" Otto
 
 # Username (this should match the folder name)
 authors:
