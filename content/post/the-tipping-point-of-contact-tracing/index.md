@@ -87,7 +87,7 @@ $$
 f(I)=\frac{\mbox{max}}{(1-\alpha)+ \alpha^{(1-I/{K_m} )} (1-α)^{(I/{K_m} )} }
 $$
 
-$K_m$ is the case number $I$ at which contact tracing is half as effective as when few people are infected, while α determines the rate of decline in efficacy.  (C) Other measures that reduce the spread of the disease and lower $R_0$ raise the threshold, allowing contact tracing to work longer. Parameters: $K_m = 400, \alpha = 0.005, \mbox{max} = 0.3, \kappa = 0.1, R_0 = \frac{β S}{\kappa} = 3$, unless noted otherwise. Alternative parameters can be explored on this app: [https://shiney.zoology.ubc.ca/otto/ContactTracingLimits/]([https://shiney.zoology.ubc.ca/otto/ContactTracingLimits/) or in the frame below.
+$K_m$ is the case number $I$ at which contact tracing is half as effective as when few people are infected, while α determines the rate of decline in efficacy.  (C) Other measures that reduce the spread of the disease and lower $R_0$ raise the threshold, allowing contact tracing to work longer. Parameters: $K_m = 400, \alpha = 0.005, \mbox{max} = 0.3, \kappa = 0.1, R_0 = \frac{β S}{\kappa} = 3$, unless noted otherwise. Alternative parameters can be explored on this app: [https://shiney.zoology.ubc.ca/otto/ContactTracingLimits/](https://shiney.zoology.ubc.ca/otto/ContactTracingLimits/) or in the frame below.
 
 
 <iframe width="800" height="900" scrolling="no" frameborder="no"  src="https://shiney.zoology.ubc.ca/otto/ContactTracingLimits"> </iframe>
