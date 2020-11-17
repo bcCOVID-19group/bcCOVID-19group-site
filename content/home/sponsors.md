@@ -13,14 +13,14 @@ columns = "2"
 +++
 <div class="row">
 <div class="col-lg-3 sponsor">
-    <a href="https://sfu.ca" target="_blank"><img src="img/sfu-logo.png" alt="Simon Fraser University" /></a>
+    <a href="https://sfu.ca" target="_blank"><img src="/media/sfu-logo.png" alt="Simon Fraser University" /></a>
 </div>
 <div class="col-lg-1">&nbsp;</div>
 <div class="col-lg-3 sponsor">
-    <a href="https://www.pims.math.ca" target="_blank"><img src="img/pims-logo.png" alt="Pacific Institute for the Mathematical Sciences" /></a>
+    <a href="https://www.pims.math.ca" target="_blank"><img src="/media/pims-logo.png" alt="Pacific Institute for the Mathematical Sciences" /></a>
 </div>
 <div class="col-lg-1">&nbsp;</div>
 <div class="col-lg-3 sponsor">
-    <a href="https://ubc.ca" target="_blank"><img src="img/UBC-logo-2018-crest-blue-rgb72.png" alt="University of British Columbia" /></a>
+    <a href="https://ubc.ca" target="_blank"><img src="/media/UBC-logo-2018-crest-blue-rgb72.png" alt="University of British Columbia" /></a>
 </div>
 </div>
