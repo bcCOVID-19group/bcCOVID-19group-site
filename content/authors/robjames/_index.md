@@ -38,9 +38,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/sarperotto
+- icon: globe
+  icon_pack: fas
+  link: https://evidently.ca
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "karlen@uvic.ca"
