@@ -30,7 +30,7 @@ publication: ""
 publication_short: ""
 
 abstract: |
-  The BC COVID-19 Modelling team issued their [first report](./slides.pdf) on
+  The BC COVID-19 Modelling team issued their [first report](slides.pdf) on
   the status of COVID-19 in British Columbia (April 14, 2021), summarizing the
   state of COVID-19 in the province and modelling projections using the
   different approaches taken by various team members.  In a video accompanying
@@ -38,7 +38,14 @@ abstract: |
   highlights the take home messages.
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: |
+  The BC COVID-19 Modelling team issued their [first
+  report](/publication/april-2021-report/slides.pdf) on
+  the status of COVID-19 in British Columbia (April 14, 2021), summarizing the
+  state of COVID-19 in the province and modelling projections using the
+  different approaches taken by various team members.  In a video accompanying
+  this report (to appear), Dr. Sarah Otto walks you through these results and
+  highlights the take home messages.
 
 tags: ["epidemiology"]
 categories: ["articles"]
