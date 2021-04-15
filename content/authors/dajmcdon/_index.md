@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Caroline Colijn
+title: Daniel J. McDonald
 
 # Username (this should match the folder name)
 authors:
-- carolinecolijn
+- dajmcdon
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Canada 150 Chair, SFU
+role: Associate Professor of Statistics, University of British Columbia
 
 # Organizations/Affiliations
 # organizations:
@@ -20,47 +20,41 @@ role: Canada 150 Chair, SFU
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+# bio: (`add a short bio in authors/carolinecolijn`)
 
 interests:
-- Infectious Disease Modelling
-- Computational techniques
-- Mathematical Biology
+  - Machine learning
+  - Risk estimation
+  - Computational approximations
+  - Time series
+  - Applications in economics, biology, chemistry, finance and music
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD
+    institution: Carnegie Mellon
+    year: 
+  - course: BSc
+    institution: Carnegie Mellon
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/carolinecolijn
 - icon: github
   icon_pack: fab
-  link: https://github.com/bcCOVID-19group
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/dajmcdon
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "daniel@stat.ubc.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers 
 ---
+
+
+
