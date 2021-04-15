@@ -32,6 +32,12 @@ education:
   - course: PhD in Applied Mathematics (Quantum Theory)
     institution: University of Waterloo
     year: 2003
+  - course: Postdoc, NSERC Fellowship (Medicine)
+    institution: McGill
+    year: 2004-2005
+  - course: Postdoc
+    institution: Harvard School of Public Health; Broad Institute
+    year: 2006-2007
  
 
 # Social/Academic Networking
@@ -45,6 +51,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/carolinecolijn
+- icon: globe
+  icon_pack: fab
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
