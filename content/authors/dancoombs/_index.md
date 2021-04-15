@@ -28,8 +28,8 @@ interests:
 - Mathematical Biology
 
 education:
- courses:
- - course: PhD
+  courses:
+  - course: PhD
     institution: University of Arizona
     year:
 #  - course: MEng in Artificial Intelligence
