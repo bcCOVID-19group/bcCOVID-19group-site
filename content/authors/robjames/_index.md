@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: PhD
-    institution: University of manitoba
+    institution: University of Manitoba
 #    year: 
 #  - course: BSc
 #    institution: University of Alberta
