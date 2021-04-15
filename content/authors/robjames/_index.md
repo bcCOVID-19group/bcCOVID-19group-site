@@ -13,9 +13,9 @@ superuser: false
 role: evidently.ca
 
 # Organizations/Affiliations
-# organizations:
-# - name: Simon Fraser University
-#  url: ""
+organizations:
+  - name: Evidently
+    url: https://evidently.ca
 # - name: Pacific Institute for the Mathematical Sciences
 #  url: ""
 
@@ -25,9 +25,9 @@ role: evidently.ca
 interests:
 
 education:
-#  courses:
-#  - course: PhD
-#    institution: Stanford University
+  courses:
+  - course: PhD
+    institution: University of manitoba
 #    year: 
 #  - course: BSc
 #    institution: University of Alberta
@@ -50,6 +50,4 @@ social:
 user_groups:
 - Researchers 
 ---
-
-
-
+Rob James did his PhD in the Department of Community Health Sciences at the University of Manitoba, and now runs a small data science company ([evidently.ca](https://evidently.ca)) from a semi-deserted island in the Pacific Ocean.
