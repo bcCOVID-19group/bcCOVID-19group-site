@@ -23,6 +23,7 @@ role: Canada Research Chair in Theoretical and Experimental Evolution, UBC
 # bio: (`add a short bio in authors/carolinecolijn`)
 
 interests:
+- Evolutionary modelling
 - Infectious Disease Modelling
 - Biodiversity
 - Mathematical Biology
