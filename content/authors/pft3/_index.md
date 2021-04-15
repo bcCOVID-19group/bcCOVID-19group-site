@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD
+  - course: PhD in Scientific Computing and Computational Mathematics
     institution: Stanford University
     year: 
 

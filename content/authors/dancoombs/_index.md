@@ -27,11 +27,11 @@ interests:
 - Computational techniques
 - Mathematical Biology
 
-# education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
+education:
+ courses:
+ - course: PhD
+    institution: University of Arizona
+    year:
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 # year: 2009
