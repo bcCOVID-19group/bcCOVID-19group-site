@@ -66,7 +66,7 @@ url_poster:
 url_project:
 url_slides: "slides.pdf"
 url_source:
-url_video: https://drive.google.com/file/d/1ZbuP-Df571AAqmVgcJQFySnklhBySXgy/view
+url_video: https://www.youtube.com/embed/ZiwQpk6WPJA
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -90,3 +90,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+<div class="youtube-container">
+<iframe src="https://www.youtube.com/embed/ZiwQpk6WPJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+</div>
+
