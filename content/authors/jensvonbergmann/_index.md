@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jens von Bergeman
+title: Jens von Bergemann
 
 # Username (this should match the folder name)
 authors:
@@ -49,6 +49,11 @@ email: "jens@mountainmath.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers 
+
+coi_statement: |
+  Dr. von Bergmann has a small contract adding modelling modules to a COVID
+  modelling platform financed through a federal IDEaS COVID-19 program and
+  otherwise no financial and other financial interests relating to COVID-19.
 ---
 
 

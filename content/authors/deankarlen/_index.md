@@ -52,6 +52,12 @@ email: "karlen@uvic.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers 
+
+coi_statement: |
+  Dr. Karlen has no COI to declare. He holds grants from NSERC and the Canada
+  Foundation for Innovation for research projects unrelated to COVID-19. He has
+  no contracts, patents, or other financial interests related to COVID-19
+  modelling.
 ---
 
 

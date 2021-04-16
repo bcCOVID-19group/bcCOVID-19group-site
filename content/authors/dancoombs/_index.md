@@ -63,6 +63,13 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers 
+
+coi_statement: |
+  Dr. Coombs has no COI to declare with respect to COVID-19 modelling. He has
+  received research grants related to disease modelling and COVID-19. He provides
+  advice to the BC Centre for Disease Control and is a member of the Canadian
+  Chief Science Advisor's expert panel on Covid-19. He receives no remuneration
+  for any of these activities and has no paid contracts, patents, or other
+  financial or personal interests with respect to COVID-19 modelling.
+ 
 ---
-
-

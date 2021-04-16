@@ -55,6 +55,12 @@ email: "cytryn@math.ubc.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers 
+
+coi_statement: |
+  Dr. Cytrynbaum has no COI to declare. He receives a research grant from NSERC
+  for projects unrelated to COVID-19 and has no contracts, patents, or other
+  financial interests (professional or personal) related to COVID-19
+  modelling.
 ---
 
 

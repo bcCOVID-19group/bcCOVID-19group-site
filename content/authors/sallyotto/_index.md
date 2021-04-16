@@ -50,7 +50,10 @@ email: "otto@zoology.ubc.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers 
+
+coi_statement: |
+ Dr. Otto has no COI to declare with respect to COVID-19 modelling; she receives
+ grants to fund her research from the federal government (NSERC, CRC) but has no
+ paid contracts, patents, or other financial or personal interests with respect
+ to this modelling (other than wanting to help curb the pandemic!).
 ---
-
-
-
