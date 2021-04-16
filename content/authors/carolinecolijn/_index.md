@@ -74,6 +74,6 @@ coi_statement: |
   the BC Centre for Disease Control and the Public Health Agency of Canada. She
   is a member of the Canadian Chief Science Advisor's expert panel on COVID-19.
   Her research group has a paid contract to do COVID-19 weekly incidence
-  projections for Canada, fo the Public Health Agency of Canada. She has no
+  projections for Canada, for the Public Health Agency of Canada. She has no
   other financial or personal interests with respect to COVID-19.
 ---
