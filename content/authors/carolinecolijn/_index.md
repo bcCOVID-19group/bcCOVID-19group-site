@@ -67,4 +67,13 @@ email: " ccolijn@sfu.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers 
+
+coi_statement: |
+  Dr. Colijn has no COI to declare with respect to COVID-19 modelling. She has
+  received research grants related to COVID-19 modelling and provides advice to
+  the BC Centre for Disease Control and the Public Health Agency of Canada. She
+  is a member of the Canadian Chief Science Advisor's expert panel on COVID-19.
+  Her research group has a paid contract to do COVID-19 weekly incidence
+  projections for Canada, fo the Public Health Agency of Canada. She has no
+  other financial or personal interests with respect to COVID-19.
 ---
