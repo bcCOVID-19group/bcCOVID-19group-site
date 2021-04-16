@@ -49,5 +49,9 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers 
+
+coi_statement: |
+  Dr. James has no COI to declare.
+
 ---
 Rob James did his PhD in the Department of Community Health Sciences at the University of Manitoba, and now runs a small data science company ([evidently.ca](https://evidently.ca)) from a semi-deserted island in the Pacific Ocean.

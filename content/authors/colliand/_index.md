@@ -62,7 +62,8 @@ email: "colliand@crowdmark.com"
 user_groups:
 - Support
 
+coi_statement: |
+  Dr. Colliander has no COI to declare. As Director of the Pacific Institute for
+  the Mathematical Sciences, he has supported several research efforts focused
+  on the pandemic including the work of the BC COVID-19 Modelling Group.
 ---
-
-
-blah
