@@ -34,9 +34,6 @@ education:
   - course: PhD
     institution: Carnegie Mellon
     year: 
-  - course: BSc
-    institution: Carnegie Mellon
-    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
