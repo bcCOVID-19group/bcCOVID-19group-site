@@ -56,6 +56,9 @@ email: "elisha_are@sfu.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers 
+
+coi_statement: |
+  Dr. Are has no COI to declare with respect to COVID-19 modelling.  He is a postdoctoral fellow in Dr Colijn's research group.
 ---
 
 
