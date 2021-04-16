@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jens von Bergeman
+title: Jens von Bergemann
 
 # Username (this should match the folder name)
 authors:
