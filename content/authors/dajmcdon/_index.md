@@ -54,6 +54,13 @@ email: "daniel@stat.ubc.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers 
+
+coi_statement: |
+  Dr. McDonald has no COI to declare with respect to COVID-19 modelling. He is
+  also a member of the Delphi Research Group at Carnegie Mellon University which
+  focuses on modeling COVID-19 and other epidemics. He receives no remuneration
+  for these activities and has no paid contracts, patents, or other financial or
+  personal interests with respect to epidemic modeling.
 ---
 
 
