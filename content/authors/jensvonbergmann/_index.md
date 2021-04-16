@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jens von Bergemann
+title: Jens von Bergmann
 
 # Username (this should match the folder name)
 authors:
@@ -38,6 +38,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: globe
+  icon_pack: fas
+  link: https://mountainmath.ca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/vb_jens
