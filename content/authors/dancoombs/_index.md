@@ -73,5 +73,3 @@ coi_statement: |
   financial or personal interests with respect to COVID-19 modelling.
  
 ---
-
-### Conflict of Interest Statment
