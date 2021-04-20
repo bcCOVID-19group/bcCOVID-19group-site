@@ -19,7 +19,10 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Number of active cases of a VOC when first detected (y-axis) depends on how much we’re looking (x-axis is the fraction of cases assessed for the variant)"
+  caption: |
+    Number of active cases of a VOC when first detected (y-axis) depends on how
+    much we’re looking (x-axis is the fraction of cases assessed for the
+    variant)
   focal_point: ""
   preview_only: false
 
@@ -33,7 +36,7 @@ projects: []
 
 ## Background
 The appearance of new COVID-19 [Variants of
-Concern](https://www.sfu.ca/magpie/blog/are-there-covid-variants-amongst-us-.html)
+Concern](https://www.cdc.gov/coronavirus/2019-ncov/more/science-and-research/scientific-brief-emerging-variants.html)
 has jurisdictions around the world scrambling to determine whether variants are
 already circulating within their communities. Here we present modelling results
 that indicate how many active cases are likely circulating within a community
