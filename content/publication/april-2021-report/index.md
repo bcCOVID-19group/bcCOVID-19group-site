@@ -77,7 +77,7 @@ image:
     ~40% from March levels to halt growth (thinner red curves are illustrations
     only).
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
