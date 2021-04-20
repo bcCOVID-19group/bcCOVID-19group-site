@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Paul Tupper
+title: Brendon Phillips
 
 # Username (this should match the folder name)
 authors:
-- pft3
+- brendonphillips 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Mathematics, Simon Fraser University
+role: Postdoctoral Researcher in Computational Epidemiology
 
 # Organizations/Affiliations
 # organizations:
@@ -23,13 +23,13 @@ role: Professor of Mathematics, Simon Fraser University
 # bio: (`add a short bio in authors/carolinecolijn`)
 
 interests:
-  - Applied Mathematics
-  - Stochastic differential equations
+- Computational Epidemiology
+- Infectious Disease Modelling
 
 education:
   courses:
-  - course: PhD in Scientific Computing and Computational Mathematics
-    institution: Stanford University
+  - course: PhD in Applied Mathematics
+    institution: University of Waterloo
     year: 
 
 # Social/Academic Networking
@@ -37,21 +37,16 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/tallpupper
-- icon: globe
-  icon_pack: fas
-  link: http://www.sfu.ca/magpie/home.html
+  link: https://ca.linkedin.com/in/brendoncphillips
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "pft3@sfu.ca"
+# Enter email to display Gravatar (if Gravatar enabled in Config) 
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers 
+
 ---
-
-
-
