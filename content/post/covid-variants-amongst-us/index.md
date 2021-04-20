@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "COVID Variants Amongst Us"
+title: "Are there COVID variants amongst us?"
 subtitle: ""
 summary: ""
 authors: 
