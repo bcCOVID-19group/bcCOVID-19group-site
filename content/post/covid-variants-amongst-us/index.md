@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Covid Vairants Amongst Us"
+title: "COVID Variants Amongst Us"
 subtitle: ""
 summary: ""
 authors: 
