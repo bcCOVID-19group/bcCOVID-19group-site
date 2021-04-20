@@ -10,6 +10,21 @@ subtitle = ""
 [design]
 columns = "2"
 
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  #color = "#5262bc"
+  # Background gradient.
+  gradient_start = "#3f51b5"
+  gradient_end = "#6574c4"
+  gradient_angle = "0"
+
+  text_color_light = "true"
+
 +++
 <div class="row">
 <div class="col-lg-3 sponsor">
@@ -17,7 +32,7 @@ columns = "2"
 </div>
 <div class="col-lg-1">&nbsp;</div>
 <div class="col-lg-3 sponsor">
-    <a href="https://www.pims.math.ca" target="_blank"><img src="/media/pims-logo.png" alt="Pacific Institute for the Mathematical Sciences" /></a>
+    <a href="https://www.pims.math.ca" target="_blank"><img src="/media/pims-logo.svg" alt="Pacific Institute for the Mathematical Sciences" /></a>
 </div>
 <div class="col-lg-1">&nbsp;</div>
 <div class="col-lg-3 sponsor">
