@@ -26,6 +26,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+links: 
+  - name: View original
+    url: https://www.sfu.ca/magpie/blog/after_vaccination.html
+    icon_pack: fas
+    icon: globe
 ---
 
 Please see our [full
