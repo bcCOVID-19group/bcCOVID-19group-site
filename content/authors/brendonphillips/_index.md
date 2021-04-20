@@ -49,4 +49,7 @@ email: ""
 user_groups:
 - Researchers 
 
+coi_statement: |
+  Dr. Phillips receives funding from MITACS and Apex to fund his postdoctoral
+  fellowship to conduct research on COVID-19.
 ---
