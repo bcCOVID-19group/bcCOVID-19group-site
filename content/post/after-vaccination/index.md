@@ -181,8 +181,8 @@ individuals](https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth
 that comes from COVID infection. Many will be children, [for whom the risk
 of severe outcomes is less, but it is far from
 0](https://www.cdc.gov/coronavirus/2019-ncov/hcp/pediatric-hcp.html). It
-is also unclear how long infection with COVID protects against
-reinfection.
+is also unclear how long infection with COVID [protects against
+reinfection](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30783-0/fulltext).
 
 Finally, the best outcome is if we can increase the fraction of the
 population that is immune without large numbers of people being infected

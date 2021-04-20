@@ -45,7 +45,7 @@ sampling strategies used by Public Health authorities.
 
 A new [Variant of
 Concern](https://www.sfu.ca/magpie/blog/are-there-covid-variants-amongst-us-.html)
-(VOC) was described in the December 21st Public Health of England report [1],
+(VOC) was described in the December 21st Public Health of England report [^1],
 sounding the alarm that a more transmissible form of the SARS-CoV-2 virus that
 causes COVID-19 had emerged (“B.1.1.7”). Because B.1.1.7 altered one of the
 three probes used in the COVID-19 test in the UK (“TaqPath”), officials could
@@ -54,7 +54,7 @@ to hundreds of thousands of data points. Week after week and health region
 after region, B.1.1.7 was found to rise in frequency across the UK. Detailed
 analyses of these data estimated that B.1.1.7 increases the reproductive number
 (Rt) of COVID-19 – the number of new cases per infected individual – by ~50%
-([2]: 40-80% depending on the estimation method used, see also [3]).
+([^2]: 40-80% depending on the estimation method used, see also [^3]).
 
 Many other jurisdictions use different tests to detect COVID-19, which do not
 distinguish among the VOCs. In such cases, whole genome sequencing (WGS) is
@@ -77,7 +77,7 @@ Here we use a stochastic model to ask how the sampling fraction (currently low
 by WGS or high by either PCR or much enhanced WGS) affects the number of active
 VOC cases that are likely to be circulating within a community when the variant
 is first detected.  We simulate the new infections caused by each infected
-individual in each viral generation (taken to be about a week [2]), assuming
+individual in each viral generation (taken to be about a week [^2]), assuming
 that a fraction of these cases are randomly sampled for further testing (see
 discussion below about non-random sampling). We further assume that the VOC is
 spreading in the community with a reproductive number of Rt = 1.5, but results
@@ -164,7 +164,7 @@ the community, effectively casting the net of detection around likely sources
 of VOCs into a region. But once the VOCs do become established, targeting
 testing to travellers becomes largely ineffective because travellers represent
 a small portion of new cases, as observed with the initial COVID-19 strains
-[5].
+[^5].
 
 The relative value of sequencing randomly versus sequencing known travellers
 depends on how well travellers and their households self-isolate. If there were
@@ -218,12 +218,12 @@ more of vaccinations protecting our communities.
 ## MODEL DETAILS:
 We conducted a stochastic model of transmission from an index case carrying a
 new variant, approximating the serial interval as one week and treating the
-period of time during which individuals are infectious as ~1 week [4]. These
+period of time during which individuals are infectious as ~1 week [^4]. These
 approximations allow us to treat the number of active cases each week as a
 discrete-time random walk. Specifically, starting with a single case introduced
 into a jurisdiction, the number of onward cases each week is randomly drawn
 from a negative binomial distribution, with a mean per case of Rt = 1.5 and an
-overdispersion index per case of 0.7, as estimated for COVID-19 [4].  Rt = 1.5
+overdispersion index per case of 0.7, as estimated for COVID-19 [^4].  Rt = 1.5
 represents a 50% increase in transmission compared to current COVID-19 in
 regions where Rt is about 1 (as in several
 [provinces](https://epiforecasts.io/covid/posts/national/canada/https://epiforecasts.io/covid/posts/national/canada/)
@@ -253,12 +253,12 @@ genotyping.
 
 ### References:
 
-[1] Public Health England. 2020. Investigation of novel SARS-COV-2 variant: Variant of Concern 202012/01. Version 1, release date 21/12/2020. https://www.gov.uk/government/publications/investigation-of-novel-sars-cov-2-variant-variant-of-concern-20201201
+[^1]: Public Health England. 2020. Investigation of novel SARS-COV-2 variant: Variant of Concern 202012/01. Version 1, release date 21/12/2020. https://www.gov.uk/government/publications/investigation-of-novel-sars-cov-2-variant-variant-of-concern-20201201
 
-[2] Volz, E., et al. 2020. Transmission of SARS-CoV-2 Lineage B. 1.1. 7 in England: Insights from linking epidemiological and genetic data. virological.org. https://virological.org/t/transmission-of-sars-cov-2-lineage-b-1-1-7-in-england-insights-from-linking-epidemiological-and-genetic-data/576
+[^2]: Volz, E., et al. 2020. Transmission of SARS-CoV-2 Lineage B. 1.1. 7 in England: Insights from linking epidemiological and genetic data. virological.org. https://virological.org/t/transmission-of-sars-cov-2-lineage-b-1-1-7-in-england-insights-from-linking-epidemiological-and-genetic-data/576
 
-[3] Davies, N.G., et al. 2020. Estimated transmissibility and severity of novel SARS-CoV-2 Variant of Concern 202012/01 in England. medRxiv. https://doi.org/10.1101/2020.12.24.20248822
+[^3]: Davies, N.G., et al. 2020. Estimated transmissibility and severity of novel SARS-CoV-2 Variant of Concern 202012/01 in England. medRxiv. https://doi.org/10.1101/2020.12.24.20248822
 
-[4] He et al. BMC Public Health (2020) 20:1558
+[^4]: He et al. BMC Public Health (2020) 20:1558
 
-[5] Russell, T.W., et al. 2021. Effect of internationally imported cases on internal spread of COVID-19: a mathematical modelling study. The Lancet Public Health 6: e12-e20.
+[^5]: Russell, T.W., et al. 2021. Effect of internationally imported cases on internal spread of COVID-19: a mathematical modelling study. The Lancet Public Health 6: e12-e20.
