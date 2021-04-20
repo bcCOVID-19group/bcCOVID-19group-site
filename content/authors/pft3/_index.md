@@ -37,9 +37,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/dajmcdon
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/tallpupper
+- icon: globe
+  icon_pack: fas
+  link: http://www.sfu.ca/magpie/home.html
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "pft3@sfu.ca"
