@@ -72,7 +72,10 @@ url_video: https://www.youtube.com/embed/ZiwQpk6WPJA
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: |
+    Variants of concern (VOC) iVOC transmission must be reduced by an additional
+    ~40% from March levels to halt growth (thinner red curves are illustrations
+    only).
   focal_point: ""
   preview_only: false
 
