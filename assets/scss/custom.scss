@@ -16,5 +16,21 @@
 }
 
 .navbar {
-    background-color: #3f51b5;
+    background-color: #055299;
+}
+
+.navbar {
+    line-height: 2;
+}
+
+div#navbar-content li.nav-item a.nav-link {
+    padding: .9375rem;
+    border-right: 1px solid #447db3;
+    outline-offset: -2px;
+    height: 100%;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 1.6rem;
+    padding-right: 1.6rem;
 }

@@ -17,12 +17,12 @@ hero_media = "nCoV-CDC-23312.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  #color = "#7985cb"
+  color = "#03315c"
   
   # Background gradient.
-  gradient_start = "#3f51b5"
-  gradient_end = "#6574c4"
-  gradient_angle = "0"
+  #gradient_start = "#03315c"
+  #gradient_end = "#6574c4"
+  #gradient_angle = "0"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.

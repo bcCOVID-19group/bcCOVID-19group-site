@@ -17,11 +17,11 @@ columns = "2"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  #color = "#5262bc"
+  color = "#03315c"
   # Background gradient.
-  gradient_start = "#3f51b5"
-  gradient_end = "#6574c4"
-  gradient_angle = "0"
+  #gradient_start = "#3f51b5"
+  #gradient_end = "#6574c4"
+  #gradient_angle = "0"
 
   text_color_light = "true"
 
@@ -36,6 +36,6 @@ columns = "2"
 </div>
 <div class="col-lg-1">&nbsp;</div>
 <div class="col-lg-3 sponsor">
-    <a href="https://ubc.ca" target="_blank"><img src="/media/UBC-logo-2018-crest-blue-rgb72.png" alt="University of British Columbia" /></a>
+    <a href="https://ubc.ca" target="_blank"><img src="/media/ubc-logo.png" alt="University of British Columbia" /></a>
 </div>
 </div>
