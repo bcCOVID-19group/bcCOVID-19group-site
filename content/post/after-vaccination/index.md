@@ -117,11 +117,11 @@ including the social distancing and personal protective measures in place.
 Without any measures in place $R_0$ for the original COVID was [estimated
 to be between 2 and
 4](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008031).
-When strict social distancing is in place [we are able to bring R0 below
-1](https://www.sciencedirect.com/science/article/pii/S1755436521000141),
-as we did in BC in the spring of 2020, when we didn’t have to contend with
-the new variants. For the new variants such as B117 and P1, [we know that
-$R_0$ is higher than for the original
+When strict social distancing is in place [we are able to bring $R_0$ below
+1](https://www.sciencedirect.com/science/article/pii/S1755436521000141), as we
+did in BC in the spring of 2020, when we didn’t have to contend with the new
+variants. For the new variants such as B117 and P1, [we know that $R_0$ is
+higher than for the original
 variant](https://science.sciencemag.org/content/372/6538/eabg3055).  
 
 In this very simple model, [the relation between f, the fraction that
@@ -132,29 +132,28 @@ fraction of the population needs to have immunity for infection numbers to
 decline. In our full model we used an $R_0$ of 2.5, which may be an
 overestimate or an underestimate depending on the variant that is dominant
 at that time and what control measures remain in place. With this value of
-$R_0$,we need $1-1/(2.5)=60\%$ to be immune. So assuming we want our
-population to reach this level of protection through vaccination, we need
-60% percent of the population to be protected by vaccination.
-Unfortunately, [about 80% of the population is
-adult](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501),
-of those [only about 80% will get
+$R_0$, we need $1-1/(2.5)=60\\% $ to be immune. So assuming we want our
+population to reach this level of protection through vaccination, we need 60%
+percent of the population to be protected by vaccination. Unfortunately, [about
+80% of the population is
+adult](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501), of
+those [only about 80% will get
 vaccinated](https://health-infobase.canada.ca/covid-19/vaccination-coverage/),
-and of those, the vaccine may be effective against infection [for only
-around
+and of those, the vaccine may be effective against infection [for only around
 80%](https://docs.google.com/spreadsheets/d/1G6N6rV6k4MoNVvo3U33swMuBUVfMPXeknlS9sDBJpzg/edit#gid=0),
-though it will be effective against severe and symptomatic disease for
-more than this portion.  This gives a total percentage of only 51%
-protected from infection. To get up to herd immunity for an underlying
-R of 2.5, we would need an additional 9% of the population to obtain
-immunity through infection. That’s nearly 470,000 people in BC, or
-approximately 3 times the number of infections we have seen to date.
+though it will be effective against severe and symptomatic disease for more
+than this portion.  This gives a total percentage of only 51% protected from
+infection. To get up to herd immunity for an underlying R of 2.5, we would need
+an additional 9% of the population to obtain immunity through infection. That’s
+nearly 470,000 people in BC, or approximately 3 times the number of infections
+we have seen to date.
 
-On the other hand, if we know we can protect only 51% of the population
-from the infection, we can ask how low R0 has to be for infections to
-decline. It turns out the maximum R0 we can handle is about 2. This is
-probably unrealistically low for a “full reopening” that relaxes
-distancing measures, given what we know of the new variants, even if we
-maintain measures like testing and contact tracing, and some use of masks.
+On the other hand, if we know we can protect only 51% of the population from
+the infection, we can ask how low $R_0$ has to be for infections to decline. It
+turns out the maximum $R_0$ we can handle is about 2. This is probably
+unrealistically low for a “full reopening” that relaxes distancing measures,
+given what we know of the new variants, even if we maintain measures like
+testing and contact tracing, and some use of masks.
 
 These simple calculations neglect a lot of things that we deal with in our
 more sophisticated model -- including the population’s age and contact
@@ -167,12 +166,11 @@ infection.  And this is under the optimistic assumption that immunity is
 very strong (i.e. people do not get infected again after recovering from
 COVID-19) and that it is permanent. 
 
-We have three options. We can do something to keep R0 low enough that it
-is covered by our inadequate levels of immunity in our population.  We can
-accept that 10% - 20% of the population will get COVID and increase levels
-of immunity that way. Or we can work on increasing immunity by altering
-our vaccination program. Probably some combination of the three will be
-necessary.
+We have three options. We can do something to keep $R_0$ low enough that it is
+covered by our inadequate levels of immunity in our population.  We can accept
+that 10% - 20% of the population will get COVID and increase levels of immunity
+that way. Or we can work on increasing immunity by altering our vaccination
+program. Probably some combination of the three will be necessary.
 
 We are mainly keeping $R_0$ low currently with social distancing, and we
 cannot do that forever. But there are other things we do that reduce $R_0$
