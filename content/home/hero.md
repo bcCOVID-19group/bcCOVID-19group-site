@@ -54,6 +54,9 @@ hero_media = "nCoV-CDC-23312.png"
 
 The BC COVID-19 Modelling Group works on rapid response modelling of the COVID-19 pandemic, with a special focus on British Columbia and Canada.
 
-The interdisciplinary Group was convened by [Caroline Colijn (SFU)](https://www.sfu.ca/math/department/faculty/colijn--caroline.html) and [Dan Coombs (UBC)](https://www.math.ubc.ca/~coombs/) with support from the [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).
+The interdisciplinary Group was convened by [Caroline Colijn
+(SFU)](/authors/carolinecolijn/) and
+[Dan Coombs (UBC)](/authors/dancoombs/) with support from the
+[Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).
 
 
