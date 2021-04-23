@@ -26,6 +26,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+links:
+  - name: View original
+    url: https://covidmodelling.pwias.ubc.ca/blog/
+    icon: globe
+    icon_pack: fas
+  - name: Shiny app
+    url: https://shiney.zoology.ubc.ca/otto/ContactTracingLimits/
+    icon: r-project
+    icon_pack: fab
 ---
 
 
