@@ -8,7 +8,7 @@ authors:
 - deankarlen
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2020-07-14'
 lastmod: 2021-04-23T12:17:29-07:00
 featured: false
 draft: false
