@@ -215,7 +215,7 @@ quick and proactive public health actions when variants are detected. This
 could include the immediate use of rapid tests to ensure that clusters of
 variants are stopped before spreading further, implementing geographically
 specific restrictive measures, and prioritizing contact tracing (though contact
-tracing is limited [6]). And every day that we take these actions  – every day
+tracing is limited [^6]). And every day that we take these actions  – every day
 that we delay these new variants from establishing within a region – is a day
 more of vaccinations protecting our communities.
 
@@ -268,3 +268,7 @@ time of reporting because of delays in genotyping.
 [^4]: He et al. BMC Public Health (2020) 20:1558
 
 [^5]: Russell, T.W., et al. 2021. Effect of internationally imported cases on internal spread of COVID-19: a mathematical modelling study. The Lancet Public Health 6: e12-e20.
+
+[^6]: Tupper, P., Otto. S., Colijn, C. Fundamental Limitations of Contact Tracing for COVID-19. medRxiv. https://doi.org/10.1101/2020.12.15.20248299 
+
+https://www.medrxiv.org/content/10.1101/2020.12.15.20248299v1
