@@ -83,5 +83,6 @@ abstract: 'Background In March 2021, a number of regulatory and advisory bodies 
   available. https://github.com/aminadibi/astrazenecaVIPIT'
 publication: '*medRxiv*'
 url_pdf: https://www.medrxiv.org/content/early/2021/04/16/2021.04.11.21255138
+url_code: https://github.com/aminadibi/astrazenecaVIPIT
 doi: 10.1101/2021.04.11.21255138
 ---
