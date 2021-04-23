@@ -28,7 +28,7 @@ categories: []
 date: '2020-01-01'
 lastmod: 2021-04-23T14:05:13-07:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -47,63 +47,72 @@ projects: []
 publishDate: '2021-04-23T21:05:13.608190Z'
 publication_types:
 - '2'
-abstract: 'Introduction Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2)
-  specific antibodies have been shown to neutralize the virus in-vitro. Understanding
-  antibody dynamics following SARS-CoV-2 infection is therefore crucial. Sensitive
-  measurement of SARS-CoV-2 antibodies is also vital for large seroprevalence surveys
-  which inform government policies and public health interventions. However, rapidly
-  waning antibodies following SARS-CoV-2 infection could jeopardize the sensitivity
-  of serological testing on which these surveys depend.Methods This prospective cohort
-  study of SARS-CoV-2 humoral dynamics in a central London hospital analyzed 137 serial
-  samples collected from 67 participants seropositive to SARS-CoV-2 by the Meso-Scale
-  Discovery assay. Antibody titers were quantified to the SARS-CoV-2 nucleoprotein
-  (N), spike (S-)protein and the receptor-binding-domain (RBD) of the S-protein. Titers
-  were log-transformed and a multivariate log-linear model with time-since-infection
-  and clinical variables was fitted by Bayesian methods.Results The mean estimated
-  half-life of the N-antibody was 52 days (95% CI 42-65). The S- and RBD-antibody
-  had significantly longer mean half-lives of 81 days (95% CI 61-111) and 83 days
-  (95% CI 55-137) respectively. An ACE-2-receptor competition assay demonstrated significant
-  correlation between the S and RBD-antibody titers and ACE2-receptor blocking in-vitro.
-  The time-to-a-negative N-antibody test for 50% of the seropositive population was
-  predicted to be 195 days (95% CI 163-236).Discussion After SARS-CoV-2 infection,
-  the predicted half-life of N-antibody was 52 days with 50% of seropositive participants
-  becoming seronegative to this antibody at 195 days. Widely used serological tests
-  that depend on the N-antibody will therefore significantly underestimate the prevalence
-  of infection following the majority of infections.Significance statement We believe
-  that our study has significant and urgent public health and translational impact.
-  Firstly, our findings demonstrate that the half-life of the SARS-CoV-2 nucleoprotein
-  antibody is only 52 days. This has immediate and important implications for large-scale
-  seroprevalence surveys, government policy and mathematical modelling predictions
-  which rely on serological tests that target this antibody. Secondly, the slower
-  decay of the SARS-CoV-2 spike protein antibody identified in this study makes assays
-  to the spike protein a more reliable target for serological assays in the longer
-  term. We demonstrate a strong positive linear correlation between spike/RBD antibody
-  and ACE-2 receptor binding in vitro. Our findings are therefore likely to reflect
-  the time to loss of a functional antibody response in SARS-CoV-2.Funding GOSH charity,
-  Wellcome Trust (201470/Z/16/Z and 220565/Z/20/Z). GOSH NIHR Funded Biomedical Research
-  Centre.Trial registration number NCT04380896.Competing Interest StatementThe authors
-  have declared no competing interest.Clinical TrialNCT04380896Funding StatementIn
-  line with UK government policy GOSH NHS Trust made the first diagnostic test available
-  to all staff members in the hospital either as part of the study or outside the
-  study. The GOSH charity provided the funding for follow up testing over the first
-  6 months of the study. LG declares funding from Wellcome Post-Doctoral Research
-  Fellowship (201470/Z/16/Z). AS declares funding from Wellcome Trust Global Health
-  Clinical Ph.D. Fellowship (220565/Z/20/Z). GOSH NHS Trust hosts a NIHR Funded Biomedical
-  Research Centre which provides infrastructure support permitting translational research.Author
-  DeclarationsI confirm all relevant ethical guidelines have been followed, and any
-  necessary IRB and/or ethics committee approvals have been obtained.YesThe details
-  of the IRB/oversight body that provided approval or exemption for the research described
-  are given below:Approval for the study was granted from the Health Research Authority
-  UKAll necessary patient/participant consent has been obtained and the appropriate
-  institutional forms have been archived.YesI understand that all clinical trials
-  and any other prospective interventional studies must be registered with an ICMJE-approved
-  registry, such as ClinicalTrials.gov. I confirm that any such study reported in
-  the manuscript has been registered and the trial registration ID is provided (note:
-  if posting a prospective study registered retrospectively, please provide a statement
-  in the trial ID field explaining why the study was not registered in advance).YesI
-  have followed all appropriate research reporting guidelines and uploaded the relevant
-  EQUATOR Network research reporting checklist(s) and other pertinent material as
-  supplementary files, if applicable.YesAll data will be freely available on request'
+abstract: |
+  Introduction Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2)
+  specific antibodies have been shown to neutralize the virus in-vitro.
+  Understanding antibody dynamics following SARS-CoV-2 infection is therefore
+  crucial. Sensitive measurement of SARS-CoV-2 antibodies is also vital for
+  large seroprevalence surveys which inform government policies and public
+  health interventions. However, rapidly waning antibodies following SARS-CoV-2
+  infection could jeopardize the sensitivity of serological testing on which
+  these surveys depend.Methods This prospective cohort study of SARS-CoV-2
+  humoral dynamics in a central London hospital analyzed 137 serial samples
+  collected from 67 participants seropositive to SARS-CoV-2 by the Meso-Scale
+  Discovery assay. Antibody titers were quantified to the SARS-CoV-2
+  nucleoprotein (N), spike (S-)protein and the receptor-binding-domain (RBD) of
+  the S-protein. Titers were log-transformed and a multivariate log-linear model
+  with time-since-infection and clinical variables was fitted by Bayesian
+  methods.Results The mean estimated half-life of the N-antibody was 52 days
+  (95% CI 42-65). The S- and RBD-antibody had significantly longer mean
+  half-lives of 81 days (95% CI 61-111) and 83 days (95% CI 55-137)
+  respectively. An ACE-2-receptor competition assay demonstrated significant
+  correlation between the S and RBD-antibody titers and ACE2-receptor blocking
+  in-vitro.  The time-to-a-negative N-antibody test for 50% of the seropositive
+  population was predicted to be 195 days (95% CI 163-236).Discussion After
+  SARS-CoV-2 infection, the predicted half-life of N-antibody was 52 days with
+  50% of seropositive participants becoming seronegative to this antibody at 195
+  days. Widely used serological tests that depend on the N-antibody will
+  therefore significantly underestimate the prevalence of infection following
+  the majority of infections.Significance statement We believe that our study
+  has significant and urgent public health and translational impact.  Firstly,
+  our findings demonstrate that the half-life of the SARS-CoV-2 nucleoprotein
+  antibody is only 52 days. This has immediate and important implications for
+  large-scale seroprevalence surveys, government policy and mathematical
+  modelling predictions which rely on serological tests that target this
+  antibody. Secondly, the slower decay of the SARS-CoV-2 spike protein antibody
+  identified in this study makes assays to the spike protein a more reliable
+  target for serological assays in the longer term. We demonstrate a strong
+  positive linear correlation between spike/RBD antibody and ACE-2 receptor
+  binding in vitro. Our findings are therefore likely to reflect the time to
+  loss of a functional antibody response in SARS-CoV-2.Funding GOSH charity,
+  Wellcome Trust (201470/Z/16/Z and 220565/Z/20/Z). GOSH NIHR Funded Biomedical
+  Research Centre.Trial registration number NCT04380896.Competing Interest
+  StatementThe authors have declared no competing interest.Clinical
+  TrialNCT04380896Funding StatementIn line with UK government policy GOSH NHS
+  Trust made the first diagnostic test available to all staff members in the
+  hospital either as part of the study or outside the study. The GOSH charity
+  provided the funding for follow up testing over the first 6 months of the
+  study. LG declares funding from Wellcome Post-Doctoral Research Fellowship
+  (201470/Z/16/Z). AS declares funding from Wellcome Trust Global Health
+  Clinical Ph.D. Fellowship (220565/Z/20/Z). GOSH NHS Trust hosts a NIHR Funded
+  Biomedical Research Centre which provides infrastructure support permitting
+  translational research.Author DeclarationsI confirm all relevant ethical
+  guidelines have been followed, and any necessary IRB and/or ethics committee
+  approvals have been obtained.YesThe details of the IRB/oversight body that
+  provided approval or exemption for the research described are given
+  below:Approval for the study was granted from the Health Research Authority
+  UKAll necessary patient/participant consent has been obtained and the
+  appropriate institutional forms have been archived.YesI understand that all
+  clinical trials and any other prospective interventional studies must be
+  registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I
+  confirm that any such study reported in the manuscript has been registered and
+  the trial registration ID is provided (note: if posting a prospective study
+  registered retrospectively, please provide a statement in the trial ID field
+  explaining why the study was not registered in advance).YesI have followed all
+  appropriate research reporting guidelines and uploaded the relevant EQUATOR
+  Network research reporting checklist(s) and other pertinent material as
+  supplementary files, if applicable.YesAll data will be freely available on
+  request
 publication: '*medRxiv*'
 url_pdf: https://www.medrxiv.org/content/early/2020/07/22/2020.07.16.20155663
 doi: 10.1101/2020.07.16.20155663
