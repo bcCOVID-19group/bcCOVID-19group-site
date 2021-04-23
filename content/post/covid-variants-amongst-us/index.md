@@ -270,5 +270,3 @@ time of reporting because of delays in genotyping.
 [^5]: Russell, T.W., et al. 2021. Effect of internationally imported cases on internal spread of COVID-19: a mathematical modelling study. The Lancet Public Health 6: e12-e20.
 
 [^6]: Tupper, P., Otto. S., Colijn, C. Fundamental Limitations of Contact Tracing for COVID-19. medRxiv. https://doi.org/10.1101/2020.12.15.20248299 
-
-https://www.medrxiv.org/content/10.1101/2020.12.15.20248299v1
