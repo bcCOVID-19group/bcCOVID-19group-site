@@ -59,7 +59,7 @@ determine whether or not each individual tested carried this new VOC, leading
 to hundreds of thousands of data points. Week after week and health region
 after region, B.1.1.7 was found to rise in frequency across the UK. Detailed
 analyses of these data estimated that B.1.1.7 increases the reproductive number
-(Rt) of COVID-19 – the number of new cases per infected individual – by ~50%
+($R_t$) of COVID-19 – the number of new cases per infected individual – by ~50%
 ([^2]: 40-80% depending on the estimation method used, see also [^3]).
 
 Many other jurisdictions use different tests to detect COVID-19, which do not
@@ -86,28 +86,28 @@ is first detected.  We simulate the new infections caused by each infected
 individual in each viral generation (taken to be about a week [^2]), assuming
 that a fraction of these cases are randomly sampled for further testing (see
 discussion below about non-random sampling). We further assume that the VOC is
-spreading in the community with a reproductive number of Rt = 1.5, but results
-are similar for other Rt values (Table 1).
+spreading in the community with a reproductive number of $R_t = 1.5$, but results
+are similar for other $R_t$ values ([Table 1](#figure-table1)).
 
 
 
 ## How many cases are escaping notice?
-When we detect the first individual in the community with a VOC, how many
-others are there likely to be already? Figure 1 shows the number of active
-cases circulating within a community when a VOC is first detected (y-axis) as a
-function of the sampling fraction (x-axis). The mean is shown as a red curve,
-assuming no delays between when an individual is first infected and when
-results from the sequencing are available. The shaded regions illustrate the
-variability around the mean. The black curves add delays of one to three weeks
-before results are relayed back to public health teams. These delays buy time
-for the VOC to build up to even higher numbers before first reported, but they
-are realistic, because whole genome sequencing often requires sending
-samples to a central lab for sequencing, and requires processing time.
-Clearly, the higher proportion of samples that are tested, the lower the
-number of active cases at the time of detection.
+When we detect the first individual in the community with a VOC, how many others
+are there likely to be already? [Figure 1](#figure-figure1) shows the number of
+active cases circulating within a community when a VOC is first detected
+(y-axis) as a function of the sampling fraction (x-axis). The mean is shown as a
+red curve, assuming no delays between when an individual is first infected and
+when results from the sequencing are available. The shaded regions illustrate
+the variability around the mean. The black curves add delays of one to three
+weeks before results are relayed back to public health teams. These delays buy
+time for the VOC to build up to even higher numbers before first reported, but
+they are realistic, because whole genome sequencing often requires sending
+samples to a central lab for sequencing, and requires processing time.  Clearly,
+the higher proportion of samples that are tested, the lower the number of active
+cases at the time of detection.
 
 
-{{< figure src="featured.png" title="Figure 1: Number of active cases of a VOC when first detected (y-axis) depends on how much we're looking (x-axis is the fraction of cases assessed for the variant" >}}
+{{< figure src="featured.png" id="figure1" title="Figure 1: Number of active cases of a VOC when first detected (y-axis) depends on how much we're looking (x-axis is the fraction of cases assessed for the variant" >}}
 
 This figure immediately illustrates the risks of a low-coverage WGS strategy
 (first vertical line set at current levels of sampling in Canada). On average,
@@ -127,7 +127,7 @@ while it is still in low numbers, slashing the expected number of active cases
 by over 70% compared with current 5% WGS sampling (average = 7.4 with 95%
 CI from 0 to 27, assuming a processing delay of two weeks).  In addition,
 rapid testing by PCR likely would reduce delays , lowering further the risk
-that the VOC has spread to high numbers (Table 1).
+that the VOC has spread to high numbers ([Table 1](#figure-table1)).
 
 
 
@@ -139,14 +139,14 @@ variant is circulating within the community with the benefits of whole genome
 sequencing (including detecting new mutations, tracking where the virus has
 come from, and contributing to the global database of information on COVID-19).
 
-Figure 2 explores how alternating the sampling strategy between weeks between
-high (PCR) and low (WGS) coverage would affect the number of circulating active
-cases at the time that a variant is detected, assuming two week delays for
-reporting:
+[Figure 2](#figure-figure2) explores how alternating the sampling strategy
+between weeks between high (PCR) and low (WGS) coverage would affect the number
+of circulating active cases at the time that a variant is detected, assuming two
+week delays for reporting:
 
 
 
-{{< figure src="figure2.png" title="Figure 2: The number of active cases of a variant when it is first detected (y-axis) when alternating weeks between high coverage (sampling 50% of cases by PCR) and low coverage (sampling 5% of cases by WGS), with an increasing number of weeks between high coverage sampling from left to right. Circles give the mean and bars the 95% CI." >}}
+{{< figure src="figure2.png" id="figure2" title="Figure 2: The number of active cases of a variant when it is first detected (y-axis) when alternating weeks between high coverage (sampling 50% of cases by PCR) and low coverage (sampling 5% of cases by WGS), with an increasing number of weeks between high coverage sampling from left to right. Circles give the mean and bars the 95% CI." >}}
 
 
 In terms of detecting known variants, PCR every week (first set of simulations
@@ -228,10 +228,10 @@ period of time during which individuals are infectious as ~1 week [^4]. These
 approximations allow us to treat the number of active cases each week as a
 discrete-time random walk. Specifically, starting with a single case introduced
 into a jurisdiction, the number of onward cases each week is randomly drawn
-from a negative binomial distribution, with a mean per case of Rt = 1.5 and an
-overdispersion index per case of 0.7, as estimated for COVID-19 [^4].  Rt = 1.5
+from a negative binomial distribution, with a mean per case of $R_t = 1.5$ and an
+overdispersion index per case of 0.7, as estimated for COVID-19 [^4].  $R_t = 1.5$
 represents a 50% increase in transmission compared to current COVID-19 in
-regions where Rt is about 1 (as in several
+regions where $R_t$ is about 1 (as in several
 [provinces](https://epiforecasts.io/covid/posts/national/canada/https://epiforecasts.io/covid/posts/national/canada/)
 in Canada).
 
@@ -243,17 +243,17 @@ process is restarted from the next variant introduced into the community.  This
 process is repeated 5000 times for different sampling fractions. The number of
 active cases in the week that a variant is detected is reported above.
 
-Figure 1 illustrates the mean (red curve) as well as the following quantiles:
-97.5%, 75%, 25%, and 2.5% (shading from top to bottom). Figure 2 explores
-alternating sampling strategies, with varying schedules of high (50%) and low
-(5%) sampling effort, assuming that the variant first arises at a random time
-within this alternating schedule. CI (“credibility intervals”) are highest
-density intervals, which can include zero because a variant can be sampled but
-then not lead to any active cases at the time of reporting because of delays in
-genotyping.
+[Figure 1](#figure-figure1) illustrates the mean (red curve) as well as the
+following quantiles: 97.5%, 75%, 25%, and 2.5% (shading from top to bottom).
+[Figure 2](#figure-figure2) explores alternating sampling strategies, with
+varying schedules of high (50%) and low (5%) sampling effort, assuming that the
+variant first arises at a random time within this alternating schedule. CI
+(“credibility intervals”) are highest density intervals, which can include zero
+because a variant can be sampled but then not lead to any active cases at the
+time of reporting because of delays in genotyping.
 
 
-{{< figure src="table1.png" title="Table 1: The number of active cases at the time of detection for variants that have different reproductive numbers in a region. The numbers show the mean number of active cases, with the 95% credibility interval in parentheses." >}}
+{{< figure src="table1.png" id="table1" title="Table 1: The number of active cases at the time of detection for variants that have different reproductive numbers in a region. The numbers show the mean number of active cases, with the 95% credibility interval in parentheses." >}}
 
 
 
