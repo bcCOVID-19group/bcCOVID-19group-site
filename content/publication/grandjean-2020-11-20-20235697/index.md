@@ -26,8 +26,7 @@ authors:
 - ' '
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-04-23T14:00:05-07:00
+date: '2020-11-22'
 featured: false
 draft: false
 

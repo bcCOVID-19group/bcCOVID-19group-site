@@ -13,8 +13,7 @@ authors:
 - carolinecolijn
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-04-23T13:53:39-07:00
+date: '2021-03-28'
 featured: false
 draft: false
 
@@ -24,7 +23,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

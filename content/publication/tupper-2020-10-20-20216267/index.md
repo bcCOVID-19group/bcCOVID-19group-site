@@ -10,8 +10,7 @@ authors:
 - carolinecolijn
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-04-23T14:02:24-07:00
+date: '2020-10-22'
 featured: false
 draft: false
 
@@ -21,7 +20,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

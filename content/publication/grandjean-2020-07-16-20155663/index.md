@@ -25,8 +25,7 @@ authors:
 - ' '
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-04-23T14:05:13-07:00
+date: '2020-07-22'
 featured: false
 draft: false
 
@@ -36,7 +35,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
