@@ -36,49 +36,33 @@ projects: []
 publishDate: '2021-04-23T20:29:14.728995Z'
 publication_types:
 - '2'
-abstract: 'Background Many countries have implemented population-wide interventions
-  such as physical distancing measures, in efforts to control COVID-19. The extent
-  and success of such measures has varied. Many jurisdictions with declines in reported
-  COVID-19 cases are moving to relax measures, while others are continuing to intensify
-  efforts to reduce transmission.Aim We aim to determine the time frame between a
-  change in COVID-19 measures at the population level and the observable impact of
-  such a change on cases.Methods We examine how long it takes for there to be a substantial
-  difference between the cases that occur following a change in control measures and
-  those that would have occurred at baseline. We then examine how long it takes to
-  detect a difference, given delays and noise in reported cases. We use changes in
-  population-level (e.g., distancing) control measures informed by data and estimates
-  from British Columbia, Canada.Results We find that the time frames are long: it
-  takes three weeks or more before we might expect a substantial difference in cases
-  given a change in population-level COVID-19 control, and it takes slightly longer
-  to detect the impacts of the change. The time frames are shorter (11-15 days) for
-  dramatic changes in control, and they are impacted by noise and delays in the testing
-  and reporting process, with delays reaching up to 25-40 days.Conclusion The time
-  until a change in broad control measures has an observed impact is longer than is
-  typically understood, and is longer than the mean incubation period (time between
-  exposure than onset) and the often used 14 day time period. Policy makers and public
-  health planners should consider this when assessing the impact of policy change,
-  and efforts should be made to develop rapid, consistent real-time COVID-19 surveillance.Competing
-  Interest StatementThe authors have declared no competing interest.Funding StatementThe
-  work was funded by Genome B.C.textquoterights COVID-19 Rapid Response Funding Initiative
-  (project code COV-142).Author DeclarationsI confirm all relevant ethical guidelines
-  have been followed, and any necessary IRB and/or ethics committee approvals have
-  been obtained.YesThe details of the IRB/oversight body that provided approval or
-  exemption for the research described are given below:This work involves data that
-  have been made publicly available by the British Columbia Centre for Disease Control,
-  and so no IRB approval or exemption is required.All necessary patient/participant
-  consent has been obtained and the appropriate institutional forms have been archived.YesI
-  understand that all clinical trials and any other prospective interventional studies
-  must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov.
-  I confirm that any such study reported in the manuscript has been registered and
-  the trial registration ID is provided (note: if posting a prospective study registered
-  retrospectively, please provide a statement in the trial ID field explaining why
-  the study was not registered in advance).Yes I have followed all appropriate research
-  reporting guidelines and uploaded the relevant EQUATOR Network research reporting
-  checklist(s) and other pertinent material as supplementary files, if applicable.YesOur
-  data is publicly available from the British Columbia Centre for Disease Control.
-  In addition to that, wetextquoterightve archived a copy of the data on a github
-  site linked in our manuscript.'
+abstract: |
+  Background Many countries have implemented population-wide interventions such
+  as physical distancing measures, in efforts to control COVID-19. The extent
+  and success of such measures has varied. Many jurisdictions with declines in
+  reported COVID-19 cases are moving to relax measures, while others are
+  continuing to intensify efforts to reduce transmission.Aim We aim to determine
+  the time frame between a change in COVID-19 measures at the population level
+  and the observable impact of such a change on cases.Methods We examine how
+  long it takes for there to be a substantial difference between the cases that
+  occur following a change in control measures and those that would have
+  occurred at baseline. We then examine how long it takes to detect a
+  difference, given delays and noise in reported cases. We use changes in
+  population-level (e.g., distancing) control measures informed by data and
+  estimates from British Columbia, Canada.Results We find that the time frames
+  are long: it takes three weeks or more before we might expect a substantial
+  difference in cases given a change in population-level COVID-19 control, and
+  it takes slightly longer to detect the impacts of the change. The time frames
+  are shorter (11-15 days) for dramatic changes in control, and they are
+  impacted by noise and delays in the testing and reporting process, with delays
+  reaching up to 25-40 days.Conclusion The time until a change in broad control
+  measures has an observed impact is longer than is typically understood, and is
+  longer than the mean incubation period (time between exposure than onset) and
+  the often used 14 day time period. Policy makers and public health planners
+  should consider this when assessing the impact of policy change, and efforts
+  should be made to develop rapid, consistent real-time COVID-19
+  surveillance.
 publication: '*medRxiv*'
-url_pdf: https://www.medrxiv.org/content/early/2020/06/16/2020.06.14.20131177
+url_pdf: https://www.medrxiv.org/content/10.1101/2020.06.14.20131177v1.full.pdf
 doi: 10.1101/2020.06.14.20131177
 ---

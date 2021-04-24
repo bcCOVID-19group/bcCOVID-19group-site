@@ -45,17 +45,20 @@ projects: []
 publishDate: '2021-04-23T19:56:05.366449Z'
 publication_types:
 - '2'
-abstract: We collated contact tracing data from COVID-19 clusters in Singapore and
-  Tianjin, China and estimated the extent of pre-symptomatic transmission by estimating
-  incubation periods and serial intervals. The mean incubation periods accounting
-  for intermediate cases were 4.91 days (95%CI 4.35, 5.69) and 7.54 (95%CI 6.76, 8.56)
-  days for Singapore and Tianjin, respectively. The mean serial interval was 4.17
-  (95%CI 2.44, 5.89) and 4.31 (95%CI 2.91, 5.72) days (Singapore, Tianjin). The serial
-  intervals are shorter than incubation periods, suggesting that pre-symptomatic transmission
-  may occur in a large proportion of transmission events (0.4–0.5 in Singapore and
-  0.6–0.8 in Tianjin, in our analysis with intermediate cases, and more without intermediates).
-  Given the evidence for pre-symptomatic transmission, it is vital that even individuals
-  who appear healthy abide by public health measures to control COVID-19.
+abstract: |
+  We collated contact tracing data from COVID-19 clusters in Singapore and
+  Tianjin, China and estimated the extent of pre-symptomatic transmission by
+  estimating incubation periods and serial intervals. The mean incubation
+  periods accounting for intermediate cases were 4.91 days (95%CI 4.35, 5.69)
+  and 7.54 (95%CI 6.76, 8.56) days for Singapore and Tianjin, respectively. The
+  mean serial interval was 4.17 (95%CI 2.44, 5.89) and 4.31 (95%CI 2.91, 5.72)
+  days (Singapore, Tianjin). The serial intervals are shorter than incubation
+  periods, suggesting that pre-symptomatic transmission may occur in a large
+  proportion of transmission events (0.4–0.5 in Singapore and 0.6–0.8 in
+  Tianjin, in our analysis with intermediate cases, and more without
+  intermediates).  Given the evidence for pre-symptomatic transmission, it is
+  vital that even individuals who appear healthy abide by public health measures
+  to control COVID-19.
 publication: '*eLife*'
 url_pdf: https://doi.org/10.7554/eLife.57149
 doi: 10.7554/eLife.57149

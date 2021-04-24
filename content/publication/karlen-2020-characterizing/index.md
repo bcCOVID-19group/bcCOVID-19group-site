@@ -54,5 +54,10 @@ links:
     icon: code
     icon_pack: fas
     url: https://arxiv.org/abs/2007.07156
+  - name: PyPM website
+    icon_pack: fas
+    icon: globe
+    url: https://pypm.github.io/home/
+
 ---
 

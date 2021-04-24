@@ -28,7 +28,7 @@ categories: []
 date: '2020-01-01'
 lastmod: 2021-04-23T14:05:13-07:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -84,36 +84,9 @@ abstract: |
   target for serological assays in the longer term. We demonstrate a strong
   positive linear correlation between spike/RBD antibody and ACE-2 receptor
   binding in vitro. Our findings are therefore likely to reflect the time to
-  loss of a functional antibody response in SARS-CoV-2.Funding GOSH charity,
-  Wellcome Trust (201470/Z/16/Z and 220565/Z/20/Z). GOSH NIHR Funded Biomedical
-  Research Centre.Trial registration number NCT04380896.Competing Interest
-  StatementThe authors have declared no competing interest.Clinical
-  TrialNCT04380896Funding StatementIn line with UK government policy GOSH NHS
-  Trust made the first diagnostic test available to all staff members in the
-  hospital either as part of the study or outside the study. The GOSH charity
-  provided the funding for follow up testing over the first 6 months of the
-  study. LG declares funding from Wellcome Post-Doctoral Research Fellowship
-  (201470/Z/16/Z). AS declares funding from Wellcome Trust Global Health
-  Clinical Ph.D. Fellowship (220565/Z/20/Z). GOSH NHS Trust hosts a NIHR Funded
-  Biomedical Research Centre which provides infrastructure support permitting
-  translational research.Author DeclarationsI confirm all relevant ethical
-  guidelines have been followed, and any necessary IRB and/or ethics committee
-  approvals have been obtained.YesThe details of the IRB/oversight body that
-  provided approval or exemption for the research described are given
-  below:Approval for the study was granted from the Health Research Authority
-  UKAll necessary patient/participant consent has been obtained and the
-  appropriate institutional forms have been archived.YesI understand that all
-  clinical trials and any other prospective interventional studies must be
-  registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I
-  confirm that any such study reported in the manuscript has been registered and
-  the trial registration ID is provided (note: if posting a prospective study
-  registered retrospectively, please provide a statement in the trial ID field
-  explaining why the study was not registered in advance).YesI have followed all
-  appropriate research reporting guidelines and uploaded the relevant EQUATOR
-  Network research reporting checklist(s) and other pertinent material as
-  supplementary files, if applicable.YesAll data will be freely available on
-  request
+  loss of a functional antibody response in SARS-CoV-2.
+
 publication: '*medRxiv*'
-url_pdf: https://www.medrxiv.org/content/early/2020/07/22/2020.07.16.20155663
+url_pdf: https://www.medrxiv.org/content/10.1101/2020.07.16.20155663v2.full.pdf
 doi: 10.1101/2020.07.16.20155663
 ---
