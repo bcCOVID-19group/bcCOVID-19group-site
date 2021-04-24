@@ -18,8 +18,7 @@ authors:
 - Michael A Irvine
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-04-23T13:50:43-07:00
+date: '2021-04-13'
 featured: false
 draft: false
 
