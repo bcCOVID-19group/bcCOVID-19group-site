@@ -94,33 +94,9 @@ abstract: |
   long-term persistence of the S-antibody, together with the strong positive
   correlation between the S-antibody and viral surrogate neutralization
   in-vitro, has important implications for the duration of functional immunity
-  following SARS-CoV-2 infection.Competing Interest StatementThe authors have
-  declared no competing interest.Clinical TrialNCT04380896Funding StatementIn
-  line with UK government policy GOSH NHS Trust made the first diagnostic test
-  available to all staff members in the hospital either as part of the study or
-  outside the study. The GOSH charity provided the funding for follow up testing
-  over the first 6 months of the study. LG declares funding from Wellcome
-  Post-Doctoral Research Fellowship (201470/Z/16/Z). AS declares funding from
-  Wellcome Trust Global Health Clinical Ph.D. Fellowship (220565/Z/20/Z). GOSH
-  NHS Trust hosts a NIHR Funded Biomedical Research Centre which provides
-  infrastructure support permitting translational research.Author DeclarationsI
-  confirm all relevant ethical guidelines have been followed, and any necessary
-  IRB and/or ethics committee approvals have been obtained.YesThe details of the
-  IRB/oversight body that provided approval or exemption for the research
-  described are given below:Approval for the study was granted from the Health
-  Research Authority UKAll necessary patient/participant consent has been
-  obtained and the appropriate institutional forms have been archived.YesI
-  understand that all clinical trials and any other prospective interventional
-  studies must be registered with an ICMJE-approved registry, such as
-  ClinicalTrials.gov. I confirm that any such study reported in the manuscript
-  has been registered and the trial registration ID is provided (note: if
-  posting a prospective study registered retrospectively, please provide a
-  statement in the trial ID field explaining why the study was not registered in
-  advance).YesI have followed all appropriate research reporting guidelines and
-  uploaded the relevant EQUATOR Network research reporting checklist(s) and
-  other pertinent material as supplementary files, if applicable.YesData
-  available upon request.
+  following SARS-CoV-2 infection.
+
 publication: '*medRxiv*'
-url_pdf: https://www.medrxiv.org/content/early/2020/11/23/2020.11.20.20235697
+url_pdf: https://www.medrxiv.org/content/10.1101/2020.06.14.20131177v1.full.pdf
 doi: 10.1101/2020.11.20.20235697
 ---
