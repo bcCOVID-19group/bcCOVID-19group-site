@@ -8,6 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 2021-02-23T14:24:25-07:00
+lastmod: 2021-02-23T14:24:25-07:00
 featured: false
 draft: false
 
@@ -31,10 +32,13 @@ links:
     url: https://www.sfu.ca/magpie/blog/vaccinating-essential-workers.html
     icon_pack: fas
     icon: globe
-
+  - name: GitHub
+    url: https://github.com/nmulberry/essential-workers-vaccine/blob/main/README.md
+    icon_pack: fab
+    icon: github
 doi: https://doi.org/10.1101/2021.02.23.21252309
 url_pdf: https://www.medrxiv.org/content/10.1101/2021.02.23.21252309v1
-url_code: https://github.com/nmulberry/essential-workers-vaccine/blob/main/README.md
+#url_code: https://github.com/nmulberry/essential-workers-vaccine/blob/main/README.md
 ---
 After many long months with no treatment or vaccine available, and widespread
 social distancing the main tool for fighting the pandemic, there are now four

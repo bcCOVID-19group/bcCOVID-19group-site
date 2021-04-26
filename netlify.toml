@@ -4,7 +4,8 @@
 
 [build.environment]
   HUGO_VERSION = "0.82.1"
-  HUGO_ENABLEGITINFO = "true"
+  HUGO_ENABLEGITINFO = "false"
+  TZ = "America/Vancouver"
 
 [context.production.environment]
   HUGO_ENV = "production"
