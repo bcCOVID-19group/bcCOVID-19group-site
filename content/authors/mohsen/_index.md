@@ -23,7 +23,10 @@ role: Associate Professor, University of British Columbia
 # bio: (`add a short bio in authors/carolinecolijn`)
 
 interests:
-- predictive analytics
+- Epidemiology
+- Biostatistics
+- Medical Decision Making
+- Predictive Analytics
 
 education:
   courses:

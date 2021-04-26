@@ -23,7 +23,9 @@ role: Statistical Research Analyst, University of British Columbia
 # bio: (`add a short bio in authors/carolinecolijn`)
 
 interests:
-- predictive analytics
+- Epidemiology
+- Biostatistics
+- Predictive Analytics
 
 education:
   courses:
