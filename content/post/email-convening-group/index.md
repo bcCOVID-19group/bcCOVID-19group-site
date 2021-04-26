@@ -8,7 +8,7 @@ authors: ["dancoombs"]
 tags: ["invitation"]
 categories: []
 date: 2020-03-23T08:34:24-07:00
-lastmod: 2020-04-08T08:34:24-07:00
+lastmod: 2020-03-23T08:34:24-07:00
 featured: false
 draft: false
 

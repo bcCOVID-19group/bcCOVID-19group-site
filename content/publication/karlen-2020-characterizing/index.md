@@ -19,7 +19,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -48,5 +48,16 @@ abstract: |
   infection to death are estimated.
 publication: '*arXiv*'
 url_pdf: https://arxiv.org/pdf/2007.07156.pdf
+#url_source: https://arxiv.org/abs/2007.07156
+links:
+  - name: arXiv
+    icon: code
+    icon_pack: fas
+    url: https://arxiv.org/abs/2007.07156
+  - name: PyPM website
+    icon_pack: fas
+    icon: globe
+    url: https://pypm.github.io/home/
+
 ---
 
