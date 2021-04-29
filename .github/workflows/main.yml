@@ -1,11 +1,13 @@
 name: Trigger Netlify Build
 on:
   schedule:
-    - cron: '26 * * * *' # Once a day at 10:59 UTC
+  - cron: '36 * * * *' # Once a day at 10:59 UTC
 jobs:
   build:
     name: Request buildhook
     runs-on: ubuntu-latest
     steps:
-      - name: POST to build hook
-        run: curl -X POST -d {} ${{ secrets.NETLIFYBUILD }}
+    - name: POST to build hook
+      run: curl -s -X POST "${TOKEN}"
+      env:
+        TOKEN: ${{ secrets.NETLIFYBUILD }}
