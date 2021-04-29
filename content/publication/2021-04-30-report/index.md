@@ -17,7 +17,7 @@ authors:
 date: 2021-04-30T08:00:00-07:00
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-04-30T07:55:00-07:00
+publishDate: 2021-04-28T14:50:00-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -40,7 +40,7 @@ abstract: |
 # Summary. An optional shortened abstract.
 summary: |
   The BC COVID-19 Modelling team issued their [second
-  report](/publication/2021-04-30/slides.pdf) on
+  report](/publication/2021-04-30-report/slides.pdf) on
   the status of COVID-19 in British Columbia (April 29, 2021), summarizing the
   state of COVID-19 in the province and modelling projections using the
   different approaches taken by various team members.  In a video accompanying
@@ -73,9 +73,12 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: |
-    Variants of concern (VOC) iVOC transmission must be reduced by an additional
-    ~40% from March levels to halt growth (thinner red curves are illustrations
-    only).
+    Based on model in Day et al. (2020) with age-based vaccination campaign,
+    age-based contact matrix (Mulberry et al. 2021), and two distancing classes as
+    in Anderson et al. (2020). Calculates the expected daily growth rate (leading
+    eigenvalue) if we were to go back up to transmission levels of VOC in
+    February/March on the date shown on the x-axis, accounting for how the
+    vaccination roll-out reduces number of susceptible individuals
   focal_point: ""
   preview_only: true
 
