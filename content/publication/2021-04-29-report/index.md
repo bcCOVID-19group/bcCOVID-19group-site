@@ -17,7 +17,7 @@ authors:
 date: 2021-04-30T08:00:00-07:00
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-04-29T14:19:00-07:00
+publishDate: 2021-04-30T07:55:00-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,8 +30,8 @@ publication: ""
 publication_short: ""
 
 abstract: |
-  The BC COVID-19 Modelling team issued their [first report](slides.pdf) on
-  the status of COVID-19 in British Columbia (April 14, 2021), summarizing the
+  The BC COVID-19 Modelling team issued their [second report](slides.pdf) on
+  the status of COVID-19 in British Columbia (April 30, 2021), summarizing the
   state of COVID-19 in the province and modelling projections using the
   different approaches taken by various team members.  In a video accompanying
   this report (to appear), Dr. Sarah Otto walks you through these results and
@@ -39,9 +39,9 @@ abstract: |
 
 # Summary. An optional shortened abstract.
 summary: |
-  The BC COVID-19 Modelling team issued their [first
-  report](/publication/april-2021-report/slides.pdf) on
-  the status of COVID-19 in British Columbia (April 14, 2021), summarizing the
+  The BC COVID-19 Modelling team issued their [second
+  report](/publication/2021-04-30/slides.pdf) on
+  the status of COVID-19 in British Columbia (April 29, 2021), summarizing the
   state of COVID-19 in the province and modelling projections using the
   different approaches taken by various team members.  In a video accompanying
   this report (to appear), Dr. Sarah Otto walks you through these results and
@@ -66,7 +66,7 @@ url_poster:
 url_project:
 url_slides: "slides.pdf"
 url_source:
-url_video: https://www.youtube.com/embed/ZiwQpk6WPJA
+url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -93,8 +93,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-<div class="youtube-container">
-<iframe src="https://www.youtube.com/embed/ZiwQpk6WPJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
-</div>
-
