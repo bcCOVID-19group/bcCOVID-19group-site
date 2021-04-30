@@ -22,7 +22,7 @@ summary: |
   report](/post/2021-04-30-report/slides.pdf) on the status of COVID-19 in
   British Columbia (April 29, 2021), summarizing the state of COVID-19 in the
   province and modelling projections using the different approaches taken by
-  various team members.  In the video accompanying this report, Dr. Sarah Otto
+  various team members.  In the video accompanying this report, Dr. Sally Otto
   walks you through these results and highlights the take home messages.
 
 tags: ["epidemiology","reports"]
