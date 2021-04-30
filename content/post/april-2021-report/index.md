@@ -46,7 +46,7 @@ url_poster:
 url_project:
 url_slides: "slides.pdf"
 url_source:
-url_video: https://www.youtube.com/embed/ZiwQpk6WPJA
+url_video: https://www.youtube.com/ZiwQpk6WPJA
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
