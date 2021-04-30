@@ -25,8 +25,8 @@ summary: |
   various team members.  In the video accompanying this report, Dr. Sarah Otto
   walks you through these results and highlights the take home messages.
 
-tags: ["epidemiology"]
-categories: ["articles"]
+tags: ["epidemiology","reports"]
+categories: ["reports"]
 featured: true
 
 # Custom links (optional).
