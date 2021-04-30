@@ -72,7 +72,7 @@ The BC COVID-19 Modelling team issued their [second report](slides.pdf) on the
 status of COVID-19 in British Columbia (April 30, 2021), summarizing the state
 of COVID-19 in the province and modelling projections using the different
 approaches taken by various team members.  In the video accompanying this
-report, Dr. Sarah Otto walks you through these results and highlights the take
+report, Dr. Sally Otto walks you through these results and highlights the take
 home messages.
 
 ### Video
