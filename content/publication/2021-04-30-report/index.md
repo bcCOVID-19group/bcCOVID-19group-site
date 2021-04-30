@@ -33,8 +33,8 @@ abstract: |
   The BC COVID-19 Modelling team issued their [second report](slides.pdf) on
   the status of COVID-19 in British Columbia (April 30, 2021), summarizing the
   state of COVID-19 in the province and modelling projections using the
-  different approaches taken by various team members.  In a video accompanying
-  this report (to appear), Dr. Sarah Otto walks you through these results and
+  different approaches taken by various team members.  In a [video accompanying
+  this report](https://youtu.be/Eahfl7Ij4-8), Dr. Sarah Otto walks you through these results and
   highlights the take home messages.
 
 # Summary. An optional shortened abstract.
@@ -43,8 +43,8 @@ summary: |
   report](/publication/2021-04-30-report/slides.pdf) on
   the status of COVID-19 in British Columbia (April 29, 2021), summarizing the
   state of COVID-19 in the province and modelling projections using the
-  different approaches taken by various team members.  In a video accompanying
-  this report (to appear), Dr. Sarah Otto walks you through these results and
+  different approaches taken by various team members.  In a [video accompanying
+  this report](https://youtu.be/Eahfl7Ij4-8), Dr. Sarah Otto walks you through these results and
   highlights the take home messages.
 
 tags: ["epidemiology"]
@@ -66,7 +66,7 @@ url_poster:
 url_project:
 url_slides: "slides.pdf"
 url_source:
-url_video: 
+url_video: https://youtu.be/Eahfl7Ij4-8
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -96,3 +96,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+<div class="youtube-container">
+<iframe src="https://youtu.be/Eahfl7Ij4-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+</div>
