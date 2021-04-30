@@ -97,5 +97,5 @@ projects: []
 slides: ""
 ---
 <div class="youtube-container">
-<iframe src="https://youtu.be/Eahfl7Ij4-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+<iframe src="https://www.youtube.com/embed/Eahfl7Ij4-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
 </div>
