@@ -30,3 +30,8 @@
   from = "/publication/2021-04-30-report/*"
   to = "/post/2021-04-30-report/:splat"
   status = 301
+
+[[redirects]]
+  from = "/publication/april-2021-report/*"
+  to = "/post/april-2021-report/:splat"
+  status = 301
