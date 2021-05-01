@@ -14,7 +14,7 @@ authors:
 - Sarafa A. Iyaniwura
 - Rebeca C. Falcao
 - Michael C. Otterstatter
-- Michael A. Irvine
+- mikeairvine
 - Naveed Z. Janjua
 - dancoombs
 - carolinecolijn
