@@ -19,7 +19,7 @@ authors:
 tags: ["epidemiology","reports"]
 categories: ["reports"]
 date: 2021-05-14T08:00:00-07:00
-publishDate: 2021-05-13T08:00:00-07:00
+publishDate: 2021-05-14T07:50:00-07:00
 featured: true
 
 summary: |
@@ -27,9 +27,9 @@ summary: |
   report](/post/2021-05-14-report/slides.pdf) on the status of COVID-19 in
   British Columbia (May 14, 2021), summarizing the state of COVID-19 in the
   province and modelling projections using the different approaches taken by
-  various team members.  In the video accompanying this report, [Dr. Eric
-  Cytrynbaum](/authors/cytryn/) walks you through these results and highlights the take
-  home messages.
+  various team members.  In the video accompanying this report (to appear), [Dr.
+  Eric Cytrynbaum](/authors/cytryn/) walks you through these results and
+  highlights the take home messages.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -49,8 +49,7 @@ projects: []
 The BC COVID-19 Modelling team issued their [third report](slides.pdf) on the
 status of COVID-19 in British Columbia (May 14, 2021), summarizing the state of
 COVID-19 in the province and modelling projections using the different
-approaches taken by various team members.  In the video accompanying this
-report, [Dr. Eric Cytrynbaum](/authors/cytryn/) walks you through these results and
-highlights the take home messages.
+approaches taken by various team members.  In the video accompanying this report
+(to eppear), [Dr. Eric Cytrynbaum](/authors/cytryn/) walks you through these
+results and highlights the take home messages.
 
-## Video
