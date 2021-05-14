@@ -31,6 +31,9 @@ summary: |
   Eric Cytrynbaum](/authors/cytryn/) walks you through these results and
   highlights the take home messages.
 
+
+url_slides: "slides.pdf"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
