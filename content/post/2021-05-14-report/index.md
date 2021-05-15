@@ -27,7 +27,7 @@ summary: |
   report](/post/2021-05-14-report/slides.pdf) on the status of COVID-19 in
   British Columbia (May 14, 2021), summarizing the state of COVID-19 in the
   province and modelling projections using the different approaches taken by
-  various team members.  In the video accompanying this report (to appear), [Dr.
+  various team members.  In the video accompanying this report, [Dr.
   Eric Cytrynbaum](/authors/cytryn/) walks you through these results and
   highlights the take home messages.
 
@@ -48,11 +48,18 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+url_video: https://www.youtube.com/watch?v=rqJFXyNC8os
 ---
 The BC COVID-19 Modelling team issued their [third report](slides.pdf) on the
 status of COVID-19 in British Columbia (May 14, 2021), summarizing the state of
 COVID-19 in the province and modelling projections using the different
 approaches taken by various team members.  In the video accompanying this report
-(to eppear), [Dr. Eric Cytrynbaum](/authors/cytryn/) walks you through these
-results and highlights the take home messages.
+, [Dr. Eric Cytrynbaum](/authors/cytryn/) walks you through these results and
+highlights the take home messages.
+
+### Video
+<div class="youtube-container">
+<iframe src="https://www.youtube.com/embed/rqJFXyNC8os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+</div>
 
