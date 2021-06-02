@@ -23,7 +23,7 @@ publishDate: 2021-06-02T07:55:00-07:00
 featured: true
 
 summary: |
-  The BC COVID-19 Modelling team issued their [third
+  The BC COVID-19 Modelling team issued their [fourth
   report](/post/2021-06-02-report/slides.pdf) on the status of COVID-19 in
   British Columbia (June 2, 2021), summarizing the state of COVID-19 in the
   province and modelling projections using the different approaches taken by
@@ -51,7 +51,7 @@ projects: []
 
 url_video: https://www.youtube.com/watch?v=LNtXislEAD8
 ---
-The BC COVID-19 Modelling team issued their [third report](slides.pdf) on the
+The BC COVID-19 Modelling team issued their [fourth report](slides.pdf) on the
 status of COVID-19 in British Columbia (June 2, 2021), summarizing the state of
 COVID-19 in the province and modelling projections using the different
 approaches taken by various team members.  In the video accompanying this report 
