@@ -54,7 +54,7 @@ url_video: https://www.youtube.com/watch?v=k3O0G78S-YI
 The BC COVID-19 Modelling team issued their [fifth report](slides.pdf) on the
 status of COVID-19 in British Columbia (June 16, 2021), summarizing the state of
 COVID-19 in the province and modelling projections using the different
-approaches taken by various team members.  In the video accompanying this report (to appear) 
+approaches taken by various team members.  In the video accompanying this report 
 , [Dr. Eric Cytrynbaum](/authors/cytryn/) walks you through these results and
 highlights the take home messages.
 
