@@ -27,7 +27,7 @@ summary: |
   report](/post/2021-06-16-report/slides.pdf) on the status of COVID-19 in
   British Columbia (June 16, 2021), summarizing the state of COVID-19 in the
   province and modelling projections using the different approaches taken by
-  various team members.  In the video accompanying this report (to appear), [Dr.
+  various team members.  In the video accompanying this report, [Dr.
   Eric Cytrynbaum](/authors/cytryn/) walks you through these results and
   highlights the take home messages.
 
@@ -49,7 +49,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-#url_video: https://www.youtube.com/watch?v=LNtXislEAD8
+url_video: https://www.youtube.com/watch?v=k3O0G78S-YI
 ---
 The BC COVID-19 Modelling team issued their [fifth report](slides.pdf) on the
 status of COVID-19 in British Columbia (June 16, 2021), summarizing the state of
@@ -59,4 +59,10 @@ approaches taken by various team members.  In the video accompanying this report
 highlights the take home messages.
 
 
+### Video
+<div class="youtube-container">
+<iframe src="https://www.youtube.com/embed/k3O0G78S-YI" title="YouTube video
+player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+class="video"></iframe> </div>
 
