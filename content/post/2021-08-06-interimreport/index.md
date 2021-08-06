@@ -49,6 +49,6 @@ projects: []
 ---
 
 Given the rapid escalation of case counts, the BC COVID-19 Modelling team has
-issued an [update](/post/2021-08-06-report/slides.pdf) to their [seventh
-report](/post/2021-07-28-report/slides.pdf) on the status of COVID-19 in
+issued an [update](/post/2021-08-06-interimreport/slides.pdf) to their [seventh
+report](/post/2021-07-28-interimreport/slides.pdf) on the status of COVID-19 in
 British Columbia (August 6, 2021).  No video this time.
