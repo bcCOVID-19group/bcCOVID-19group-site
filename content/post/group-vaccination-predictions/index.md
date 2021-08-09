@@ -10,7 +10,10 @@ categories: []
 date: 2021-08-11T11:55:33-08:00
 lastmod: 2021-08-11T11:55:33-08:00
 featured: false
-draft: false
+draft: true
+
+summary: |
+ Vaccination rates are changing globally, making it hard for organizers to predict vaccination levels for group meetings being planned. We have created a [browser app](https://brynwiley.shinyapps.io/GroupVaccinationStatus/) to estimate the numbers of unvaccinated, partially vaccinated, and fully vaccinated people in a group at a future date, based on data from around the world on vaccination rates by location and age group. While most accurate over short time frames, this app will hopefully give event organizers a clearer picture of the susceptibility of their participants to COVID-19.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
