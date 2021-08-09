@@ -4,7 +4,7 @@
 title: "An Online Tool to estimate the Vaccination Status of a Group"
 subtitle: ""
 summary: ""
-authors: ["bryn wiley,dajmcdon,sallyotto"]
+authors: ["bryn wiley","dajmcdon","sallyotto"]
 tags: []
 categories: []
 date: 2021-08-11T11:55:33-08:00
@@ -28,10 +28,6 @@ image:
 projects: []
 
 links:
-  - name: View original
-    url: https://covidmodelling.pwias.ubc.ca/blog/
-    icon: globe
-    icon_pack: fas
   - name: Shiny app
     url: https://brynwiley.shinyapps.io/GroupVaccinationStatus/
     icon: r-project
