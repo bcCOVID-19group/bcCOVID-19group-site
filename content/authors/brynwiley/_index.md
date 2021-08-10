@@ -29,7 +29,10 @@ education:
   courses:
   - course: BSc
     institution: University of British Columbia
-    year: 2021
+    year: 
+  - course: BMus
+    institution: McGill University
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,5 +48,6 @@ user_groups:
 - Researchers 
 
 coi_statement: |
-Bryn Wiley has no COI to declare with respect to COVID-19 modelling.  Bryn Wiley is a research assistant and starting graduate student in the lab of Dr. Sarah Otto and regularly visualizes British Columbian vaccination data for the BC COVID-19 modelling group.
----
+  Bryn Wiley has no COI to declare with respect to COVID-19 modelling.
+  Wiley is a research assistant and starting graduate student in the lab of Dr. Sarah Otto and regularly visualizes British Columbian vaccination data for the BC COVID-19 modelling group.
+  ---
