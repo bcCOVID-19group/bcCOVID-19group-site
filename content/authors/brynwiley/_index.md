@@ -50,4 +50,4 @@ user_groups:
 coi_statement: |
   Bryn Wiley has no COI to declare with respect to COVID-19 modelling.
   Wiley is a research assistant and starting graduate student in the lab of Dr. Sarah Otto and regularly visualizes British Columbian vaccination data for the BC COVID-19 modelling group.
-  ---
+---
