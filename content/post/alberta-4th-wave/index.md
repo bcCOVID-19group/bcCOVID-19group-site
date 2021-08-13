@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Projections for COVID Case numbers and hospital occupancy for Alberta's 4th Wave"
+title: "COVID-19 projections for Alberta's 4th wave"
 subtitle: ""
 summary: ""
 authors:
