@@ -66,7 +66,7 @@ The COVID-19 vaccine roll out has gone well in Alberta. Figure 1 shows that all
 eligible age groups have coverage (with at least one dose) in excess of 60%, and
 the age groups with the worst prognosis have around 90% coverage.
 
-{{< figure src="figure1.png" id="figure1" title="Figure 1: Percentage of the population of Alberta vaccinated with at least one dose by age group. Source: [https://www.alberta.ca/stats/covid-19-alberta-statistics.htm\#vaccinations](https://www.alberta.ca/stats/covid-19-alberta-statistics.htm)" >}}
+{{< figure src="figure1.png" id="figure1" title="Figure 1: Percentage of the population of Alberta vaccinated with at least one dose by age group. Source: [https://www.alberta.ca/stats/covid-19-alberta-statistics.htm\#vaccinations](https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#vaccinations)" >}}
 
 Previously, the Government of Alberta has pointed to the high and increasing
 levels of vaccination to justify a move away from [extraordinary pandemic measures](https://www.alberta.ca/article-learning-to-live-with-covid-19.aspx),
