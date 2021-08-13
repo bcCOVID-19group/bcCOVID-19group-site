@@ -3,7 +3,22 @@
 
 title: "COVID-19 projections for Alberta's 4th wave"
 subtitle: ""
-summary: ""
+summary: |
+  On August 13th the Government of Alberta announced that it would [keep in
+  place current levels of COVID-19
+  restrictions](https://www.cbc.ca/news/canada/calgary/alberta-ndp-david-shepherd-deena-hinshaw-jason-kenney-1.6139605).
+  Earlier, there had been plans to lift some control measures on August 16th,
+  with planned changes including removing mask mandates, changes to COVID-19
+  testing and contact tracing, and removing mandatory isolation for those
+  testing positive. The argument had been that the current level of vaccination
+  was sufficient and Alberta could now make the transition to managing COVID-19
+  as an endemic disease. However, current measures will now remain in place.
+  Increases in ICU numbers above what was expected, and the US experience with
+  COVID-19 in children, were given as reasons for pausing the move to the next
+  phase until September 27. Meanwhile, vaccination continues in Alberta, [with
+  nearly 10,000 doses being administered per
+  day](https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#vaccinations).
+
 authors:
   - carolinecolijn
   - deankarlen
