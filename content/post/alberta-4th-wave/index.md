@@ -100,7 +100,7 @@ Canada may be missing many individuals with mild or no symptoms. So among the
 cases actually being counted in Alberta, the fraction needing hospitalization
 has held steady.
 
-{{< figure src="figure2.png" id="figure2" title="Figure 2: Relationship between COVID infection and Hospitalisation: UK and Alberta. Source: http://ourworldindata.org (left); [https://www.alberta.ca/stats/covid-19-alberta-statistics.htm\#vaccinations](https://www.alberta.ca/stats/covid-19-alberta-statistics.htm) (right). Blue dots show the mean number in hospital each week divided by the total number of cases in the week before. For reference, the grey region shows daily case numbers (divided by 100,000), and the black curve shows the rise in vaccination levels in Alberta (one-dose 12+, scaled so that the top represents 100%)." >}}
+{{< figure src="figure2.png" id="figure2" title="Figure 2: Relationship between COVID infection and Hospitalisation: UK and Alberta. Source: http://ourworldindata.org (left); [https://www.alberta.ca/stats/covid-19-alberta-statistics.htm\#vaccinations](https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#vaccinations) (right). Blue dots show the mean number in hospital each week divided by the total number of cases in the week before. For reference, the grey region shows daily case numbers (divided by 100,000), and the black curve shows the rise in vaccination levels in Alberta (one-dose 12+, scaled so that the top represents 100%)." >}}
 
 
 Another source of evidence that many more infections are now being missed in
