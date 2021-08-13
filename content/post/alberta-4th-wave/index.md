@@ -143,7 +143,7 @@ which we would never learn about because they do not display symptoms. Figure 8
 
 Figures 5 and 8 (bottom) project the incidence out to the end of this year using
 two different models, though we note that there is considerable uncertainty in
-any such projections. The 4^th^ Wave is predicted to peak at slightly over
+any such projections. The 4th Wave is predicted to peak at slightly over
 17,500 cases per day in the middle of October 2021 (Figure 5) and 12,000 cases
 per day (in the model of Figure 8). The impact of these case numbers on the
 demand for hospital care is shown in Figures 6 and 8, both showing hospital
