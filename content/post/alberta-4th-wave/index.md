@@ -201,7 +201,7 @@ age-structured models' projection for daily incidence in those aged 0-9 and
 10-19, assuming that the same fraction of those infections is detected as in the
 general population.
 
-{{< figure src="figure7.png" id="figure7" title="Projected daily incidence in those aged 0-9 and 10-19. Assumptions are as in Figure 5, but here only the selected age groups are shown." >}}
+{{< figure src="figure7.png" id="figure7" title="Figure 7: Projected daily incidence in those aged 0-9 and 10-19. Assumptions are as in Figure 5, but here only the selected age groups are shown." >}}
 -   
 
 ## Multiple models give the same qualitative projections
