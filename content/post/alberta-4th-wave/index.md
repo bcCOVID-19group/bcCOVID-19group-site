@@ -31,6 +31,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+> For enquiries about this work, please contact ccolijn@sfu.ca, pft3@sfu.ca, otto@zoology.ubc.ca or karlen@uvic.ca
+
 ## Introduction
 
 On August 13th the Government of Alberta announced that it would [keep in place
