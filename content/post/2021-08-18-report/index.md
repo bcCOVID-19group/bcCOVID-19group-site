@@ -29,7 +29,7 @@ summary: |
   have been growing exponentially. This report shows that the growth in cases
   has been steady and it is urgent to reduce transmission and expand vaccination
   coverage to avoid overwhelming BC’s medical system. In the video accompanying
-  this report (to appear), [Dr. Eric Cytrynbaum](/authors/cyrtyn/) gives a brief
+  this report, [Dr. Eric Cytrynbaum](/authors/cyrtyn/) gives a brief
   presentation highlighting the main points contained in the report.
 
 
@@ -50,13 +50,22 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-#url_video: https://youtu.be/DrdA2C80UH8
+url_video: https://www.youtube.com/watch?v=Cjva2eOkBBQ
 ---
 The BC COVID-19 Modelling team issued their [eighth report](slides.pdf) on the
 status of COVID-19 in British Columbia (August 18, 2021). For the past 5 weeks,
 infections throughout BC have been growing exponentially. This report shows that
 the growth in cases has been steady and it is urgent to reduce transmission and
 expand vaccination coverage to avoid overwhelming BC’s medical system. In the
-video accompanying this report (to appear), [Dr. Eric
+video accompanying this report, [Dr. Eric
 Cytrynbaum](/authors/cytryn) gives a brief presentation highlighting the main
 points contained in the report.
+
+### Video
+<div class="youtube-container">
+<iframe src="https://www.youtube.com/embed/Cjva2eOkBBQ" title="YouTube video
+player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+class="video"></iframe> </div>
+
+
