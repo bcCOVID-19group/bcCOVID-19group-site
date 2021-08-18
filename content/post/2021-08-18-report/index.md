@@ -23,13 +23,10 @@ publishDate: 2021-08-18T07:55:00-07:00
 featured: true
 
 summary: |
-  The BC COVID-19 Modelling team issued their [eighth
-  report](/post/2021-08-18-report/slides.pdf) on the status of COVID-19 in
-  British Columbia (August 18, 2021), summarizing the state of COVID-19 in the
-  province and modelling projections using the different approaches taken by
-  various team members.  In the video accompanying this report (to appear), [Dr.
-  Eric Cytrynbaum](/authors/cytryn/) walks you through these results and
-  highlights the take home messages.
+  For the past 5 weeks, infections throughout BC have been growing
+  exponentially. This report shows that the growth in cases has been steady and
+  it is urgent to reduce transmission and expand vaccination coverage to avoid
+  overwhelming BC’s medical system.
 
 
 url_slides: "slides.pdf"
@@ -52,9 +49,10 @@ projects: []
 #url_video: https://youtu.be/DrdA2C80UH8
 ---
 The BC COVID-19 Modelling team issued their [eighth report](slides.pdf) on the
-status of COVID-19 in British Columbia (August 18, 2021), summarizing the state of
-COVID-19 in the province and modelling projections using the different
-approaches taken by various team members.  In the video accompanying this
-report (to appear), [Dr. Eric Cytrynbaum](/authors/cytryn/) walks you through these
-results and highlights the take home messages.
-
+status of COVID-19 in British Columbia (August 18, 2021). For the past 5 weeks,
+infections throughout BC have been growing exponentially. This report shows that
+the growth in cases has been steady and it is urgent to reduce transmission and
+expand vaccination coverage to avoid overwhelming BC’s medical system. In the
+video accompanying this report (to appear), [Dr. Eric
+Cytrynbaum](/authors/cytryn) gives a brief presentation highlighting the main
+points contained in the report.
