@@ -69,9 +69,9 @@ Individually, we can use graphs of the Risk Meter over time to judge trends in c
 ## Feedback
 If we have a target risk level that we want to remain below (e.g., in the Blue low risk levels, at or below 3), we can adjust our behaviours and policies as cases rise above the target. While we can use the current risk level guide us, we can do even better if we use design principles from feedback control theory.  
 
-Appropriate feedback design can reduce the health, social, and economic costs of a pandemic by driving cases down when they rise above the target and relaxing measures when cases fall below the target (van Huesden et al. 2021; link to come).  Performance can be improved when feedback systems consider recent trends and not only current measures.  One simple design sums up recent departures from the target using a ``proportional-integral'' control system (see details in van Huesden et al. 2021), basically accumulating evidence that case numbers are going in the wrong direction. 
+Appropriate feedback design can reduce the health, social, and economic costs of a pandemic by driving cases down when they rise above the target and relaxing measures when cases fall below the target (van Huesden et al. 2021; link to come).  Performance can be improved when feedback systems consider recent trends and not only current measures.  One simple design sums up recent departures from the target using a "proportional-integral" control system (see details in van Huesden et al. 2021), basically accumulating evidence that case numbers are going in the wrong direction. 
 
-For example, if we want to remain in the blue low-risk region (corresponding to ?4 cases per 100,000), the following integrator tallies the total amount by which a region is above the target:
+For example, if we want to remain in the blue low-risk region (corresponding to fewer than 4 cases per 100,000), the following integrator tallies the total amount by which a region is above the target:
  
 i(d+1) = i(d) + w (r(d)-target),
 
@@ -81,7 +81,7 @@ where i(d) stands for the integrator, r(d) is the risk meter level on day d, and
 
 (NOTE FOR ALL: App doesn't do the opposite but probably should - indicate when measures are currently more stringent than needed for the target.)
 
-{{< figure src="figure3.png" id="figure3" title="Figure 3: Early Warning System in the East Kootenay Health Service Delivery Area. Dashed curve shows the early warning system based using a ``proportional-integral'' control system.">}}
+{{< figure src="figure3.png" id="figure3" title="Figure 3: Early Warning System in the East Kootenay Health Service Delivery Area. Dashed curve shows the early warning system that accumulates evidence that case counts are above a target, here set at a risk level of three.">}}
 
 This early warning system indicates when there is accumulated evidence that stronger control measures are needed to reverse recent trends. As noted in van Huesden et al. (2021), decisions based on such accumulated evidence can greatly help pandemic control, even when there are delays (e.g., in case detection) and uncertainty in the efficacy of different measures (e.g., the actions taken at a given risk level).
 
