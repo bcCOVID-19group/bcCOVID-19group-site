@@ -46,10 +46,14 @@ education:
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/pimsmath
+  link: https://twitter.com/bcCOVID19group
+  display:
+    header: true
 - icon: github
   icon_pack: fab
   link: https://github.com/bcCOVID-19group
+  display:
+    header: true
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
