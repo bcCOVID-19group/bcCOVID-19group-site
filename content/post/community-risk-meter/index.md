@@ -14,7 +14,7 @@ featured: false
 draft: false
 
 summary: |
- COVID-19 levels vary across the province, and it can be hard to see how cases numbers have changed over time from community to community. We introduce a COVID-19 Risk Meter and an on-line app that allows people in the province to see how COVID-19 risks have changed over time.  We also use feedback control theory to indicate when case numbers are trending for too long above a target level, giving an earlier warning signal that additional measures should be taken by the community to prevent transmission.
+ COVID-19 case counts vary from region to region, making it hard to visualize how cases have changed over time within regions or to predict risk levels within a community. We introduce a COVID-19 Risk Meter and an on-line app that allows people to see how COVID-19 risks have changed over time within their local communities.  We also use feedback control theory to indicate when case numbers are trending above a target level for too long, giving an early warning signal that additional measures should be taken by the community to prevent transmission.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -69,13 +69,13 @@ Individually, we can use graphs of the Risk Meter over time to judge trends in c
 ## Feedback
 If we have a target risk level that we want to remain below (e.g., in the Blue low risk levels, at or below 3), we can adjust our behaviours and policies as cases rise above the target. While we can use the current risk level guide us, we can do even better if we use design principles from feedback control theory.  
 
-Appropriate feedback design can reduce the health, social, and economic costs of a pandemic by driving cases down when they rise above the target and relaxing measures when cases fall below the target (van Huesden et al. 2021; link to come).  Performance can be improved when feedback systems consider recent trends and not only current mreasures.  One simple design sums up recent departures from the target using a ``proportional-integral'' control system (see details in van Huesden et al. 2021), basically accumulating evidence that case numbers are going in the wrong direction. 
+Appropriate feedback design can reduce the health, social, and economic costs of a pandemic by driving cases down when they rise above the target and relaxing measures when cases fall below the target (van Huesden et al. 2021; link to come).  Performance can be improved when feedback systems consider recent trends and not only current measures.  One simple design sums up recent departures from the target using a ``proportional-integral'' control system (see details in van Huesden et al. 2021), basically accumulating evidence that case numbers are going in the wrong direction. 
 
 For example, if we want to remain in the blue low-risk region (corresponding to ?4 cases per 100,000), the following integrator tallies the total amount by which a region is above the target:
  
 i(d+1) = i(d) + w (r(d)-target),
 
-where i(d) stands for the integrator, r(d) is the risk meter level on day d, and the number w=0.022 was chosen to add a small amount of weight (2.2%) each day that that a region is above the target. Any day that case numbers fall below the target, the integrator is reset to zero. The integrator (dashed curve), added to the current risk level (black curve), provides an early warning system that risk levels have been moving above the target ([Figure 3](#figure3)). 
+where i(d) stands for the integrator, r(d) is the risk meter level on day d, and the number w=0.022 was chosen to add a small amount of weight (2.2%) each day that that a region is above the target (e.g., three to stay within the blue low-risk region). Any day that case numbers fall below the target, the integrator is reset to zero. The integrator (dashed curve), added to the current risk level (black curve), provides an early warning system that risk levels have been moving above the target ([Figure 3](#figure3)). 
 
 (NOTE FOR KLASKE: This is higher than your 0.0026 weighting, but here cases are measured per 100,000 cases, and your weighting would then be 0.13. We'll need to set a default.) 
 
@@ -87,8 +87,6 @@ This early warning system indicates when there is accumulated evidence that stro
 
 ## On-line app
 To implement the risk meter, one of us (BW) has created a [browser app](https://brynwiley.shinyapps.io/BCCovid19Risk/) that retrieves the latest BC case data and generates changes to the risk meter over time. Users can choose which regions to explore (at the HSDA or LHA level), whether to simply project risk levels forward in time or use the early warning system based, and can vary the target for a community (see more details about the methods in the "Advanced Options and Explanations" tab of the [browser app](https://brynwiley.shinyapps.io/BCCovid19Risk/)). 
-
-{{< figure src="featured.png" id="figure1" >}}
 
 ## Acknowledgements
 
