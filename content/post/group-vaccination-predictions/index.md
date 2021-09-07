@@ -14,7 +14,7 @@ featured: false
 draft: false
 
 summary: |
- Vaccination rates are changing globally, making it challenging for organizers to predict vaccination levels for group meetings being planned. We have created a [browser app](http://shiney.zoology.ubc.ca:3838/shiny/GroupVaccinationStatus/) to estimate the numbers of unvaccinated, partially vaccinated, and fully vaccinated people in a group at a future date, based on data from around the world on vaccination rates by location and age group. While most accurate over short time frames, this app provides event organizers a clearer picture of the susceptibility of their participants to COVID-19.
+ Vaccination rates are changing globally, making it challenging for organizers to predict vaccination levels for group meetings being planned. We have created a [browser app](http://shiney.zoology.ubc.ca/wiley/GroupVaccinationStatus/) to estimate the numbers of unvaccinated, partially vaccinated, and fully vaccinated people in a group at a future date, based on data from around the world on vaccination rates by location and age group. While most accurate over short time frames, this app provides event organizers a clearer picture of the susceptibility of their participants to COVID-19.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -33,7 +33,7 @@ projects: []
 
 links:
   - name: Shiny app
-    url: http://shiney.zoology.ubc.ca:3838/shiny/GroupVaccinationStatus/
+    url: http://shiney.zoology.ubc.ca/wiley/GroupVaccinationStatus/
     icon: r-project
     icon_pack: fab
 ---
@@ -44,6 +44,6 @@ However, despite this lifting of restrictions, significant portions of the Canad
 
 This unevenness in vaccination status poses a problem for universities, festivals, trade shows, conferences, or other organizations who might want to quantify how at-risk their participants are for COVID-19 infection. As more restrictions are lifted and travel restrictions become lighter, the age and regional makeup of these participants will become more diverse, and this problem will only grow.
 
-To address this, we have created a [browser app](http://shiney.zoology.ubc.ca:3838/shiny/GroupVaccinationStatus/) to estimate the numbers of unvaccinated, partially vaccinated, and fully vaccinated people in a group at a future date. The app gathers data from around the world on vaccination rates by location and age group and projects forward to estimate the makeup of the specific group in question. Projecting vaccinations into the future is, however, highly uncertain and subject to increasing error the further in the future the event will occur, and of course travellers may not be representative (see more details about the methods and data sources in the "Data Sources and Explanations" tab of the [browser app](http://shiney.zoology.ubc.ca:3838/shiny/GroupVaccinationStatus/)). Given these limitations, this app will hopefully give event organizers a clearer picture of the susceptibility of their participants to COVID-19.
+To address this, we have created a [browser app](http://shiney.zoology.ubc.ca/wiley/GroupVaccinationStatus/) to estimate the numbers of unvaccinated, partially vaccinated, and fully vaccinated people in a group at a future date. The app gathers data from around the world on vaccination rates by location and age group and projects forward to estimate the makeup of the specific group in question. Projecting vaccinations into the future is, however, highly uncertain and subject to increasing error the further in the future the event will occur, and of course travellers may not be representative (see more details about the methods and data sources in the "Data Sources and Explanations" tab of the [browser app](http://shiney.zoology.ubc.ca/wiley/GroupVaccinationStatus/)). Given these limitations, this app will hopefully give event organizers a clearer picture of the susceptibility of their participants to COVID-19.
 
 {{< figure src="featured.png" id="figure1" >}}
