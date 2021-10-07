@@ -27,7 +27,7 @@ summary: |
   report](/post/2021-10-07-report/slides-2021-10-07.pdf) on the status of COVID-19 in
   British Columbia (October 7, 2021), summarizing the state of COVID-19 in the
   province and modelling projections using the different approaches taken by
-  various team members.  In the video accompanying this report (to appear), [Dr.
+  various team members.  In the video accompanying this report, [Dr.
   Eric Cytrynbaum](/authors/cytryn/) walks you through these results and
   highlights the take home messages.
 
@@ -49,11 +49,16 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-#url_video: https://youtu.be/rGT27Fd8gpA
+url_video: https://youtu.be/oxtSXqSuVVA
 ---
 The BC COVID-19 Modelling team issued their [tenth report](slides-2021-10-07.pdf) on the
 status of COVID-19 in British Columbia (October 7, 2021), summarizing the state of
 COVID-19 in the province and modelling projections using the different
 approaches taken by various team members.  In the video accompanying this
-report (to appear), [Dr. Eric Cytrynbaum](/authors/cytryn/) walks you through these
+report, [Dr. Eric Cytrynbaum](/authors/cytryn/) walks you through these
 results and highlights the take home messages.
+
+### Video
+<div class="youtube-container">
+<iframe src="https://www.youtube.com/embed/oxtSXqSuVVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe> </div>
+
