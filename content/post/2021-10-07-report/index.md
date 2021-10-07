@@ -24,7 +24,7 @@ featured: true
 
 summary: |
   The BC COVID-19 Modelling team issued their [tenth
-  report](/post/2021-10-07-report/slides.pdf) on the status of COVID-19 in
+  report](/post/2021-10-07-report/slides-2021-10-07.pdf) on the status of COVID-19 in
   British Columbia (October 7, 2021), summarizing the state of COVID-19 in the
   province and modelling projections using the different approaches taken by
   various team members.  In the video accompanying this report (to appear), [Dr.
@@ -32,7 +32,7 @@ summary: |
   highlights the take home messages.
 
 
-url_slides: "slides.pdf"
+url_slides: "slides-2021-10-07.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -51,7 +51,7 @@ projects: []
 
 #url_video: https://youtu.be/rGT27Fd8gpA
 ---
-The BC COVID-19 Modelling team issued their [tenth report](slides.pdf) on the
+The BC COVID-19 Modelling team issued their [tenth report](slides-2021-10-07.pdf) on the
 status of COVID-19 in British Columbia (October 7, 2021), summarizing the state of
 COVID-19 in the province and modelling projections using the different
 approaches taken by various team members.  In the video accompanying this
