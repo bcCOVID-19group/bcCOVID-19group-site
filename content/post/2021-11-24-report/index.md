@@ -47,12 +47,16 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-#url_video: https://youtu.be/4gS8FcH7UWA
+url_video: https://youtu.be/z8BM7K6yRG0
 ---
 The BC COVID-19 Modelling team issued their [twelfth report](slides-2021-11-24.pdf) on the
 status of COVID-19 in British Columbia (November 24th, 2021), summarizing the state of
 COVID-19 in the province and modelling projections using the different
 approaches taken by various team members.  In the video accompanying this
-report (to appear), [Dr. Eric Cytrynbaum](/authors/cytryn/) walks you through these
+report, [Dr. Eric Cytrynbaum](/authors/cytryn/) walks you through these
 results and highlights the take home messages.
+
+### Video
+<div class="youtube-container">
+<iframe src="https://www.youtube.com/embed/z8BM7K6yRG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe> </div>
 
