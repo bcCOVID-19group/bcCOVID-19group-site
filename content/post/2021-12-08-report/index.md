@@ -44,7 +44,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-#url_video: https://youtu.be/z8BM7K6yRG0
+url_video: https://youtu.be/KGkweE9NQQM
 ---
 The BC COVID-19 Modelling team issued their [thirteenth
 report](slides-2021-12-08.pdf) on the status of COVID-19 in British Columbia
@@ -53,3 +53,9 @@ substantial risk for spreading rapidly in Canada, even among those fully
 vaccinated. In the video accompanying this report (to appear), [Dr. Eric
 Cytrynbaum](/authors/cytryn/) walks you through the key results and highlights
 the take-home messages.
+
+### Video
+<div class="youtube-container">
+<iframe src="https://www.youtube.com/embed/KGkweE9NQQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe> </div>
+
+
