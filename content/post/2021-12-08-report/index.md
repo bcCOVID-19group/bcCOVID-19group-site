@@ -25,10 +25,7 @@ featured: true
 summary: |
   The BC COVID-19 Modelling team issued their [thirteenth
   report](/post/2021-12-08-report/slides-2021-12-08.pdf) on the status of
-  COVID-19 in British Columbia (December 8, 2021), summarizing the state of
-  COVID-19 in the province and modelling projections using the different
-  approaches taken by various team members.
-
+  COVID-19 in British Columbia (December 8, 2021). This report focuses on the Omicron variant which poses a substantial risk for spreading rapidly in Canada, even among those fully vaccinated.
 
 url_slides: "slides-2021-12-08.pdf"
 
@@ -50,8 +47,4 @@ projects: []
 #url_video: https://youtu.be/z8BM7K6yRG0
 ---
 The BC COVID-19 Modelling team issued their [thirteenth report](slides-2021-12-08.pdf) on the
-status of COVID-19 in British Columbia (November 24th, 2021), summarizing the state of
-COVID-19 in the province and modelling projections using the different
-approaches taken by various team members.  In the video accompanying this
-report (to appear), [Dr. Eric Cytrynbaum](/authors/cytryn/) walks you through these
-results and highlights the take home messages.
+status of COVID-19 in British Columbia (December 8th, 2021). This report focuses on the Omicron variant which poses a substantial risk for spreading rapidly in Canada, even among those fully vaccinated.
