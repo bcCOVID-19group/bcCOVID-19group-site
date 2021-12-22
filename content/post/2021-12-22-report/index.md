@@ -18,15 +18,16 @@ authors:
 
 tags: ["epidemiology","reports"]
 categories: ["reports"]
-date: 2021-12-22T10:55:00-07:00
-publishDate: 2021-12-22T10:55:00-07:00
+date: 2021-12-22T13:55:00-07:00
+publishDate: 2021-12-22T13:55:00-07:00
 featured: true
 
 summary: |
   The BC COVID-19 Modelling team issued their [fourteenth
   report](/post/2021-12-22-report/COVID19group-2021-12-22.pdf) on the status of
-  COVID-19 in British Columbia (December 22, 2021). This report focuses on the Omicron variant which poses a substantial risk for spreading rapidly in Canada, even among those fully vaccinated.
-
+  COVID-19 in British Columbia (December 22nd, 2021). This report focuses on the
+  Omicron variant, which is spreading rapidly in Canada, even among those fully
+  vaccinated.
 url_slides: "COVID19group-2021-12-22.pdf"
 
 # Featured image
@@ -47,9 +48,9 @@ projects: []
 #url_video: https://youtu.be/KGkweE9NQQM
 ---
 The BC COVID-19 Modelling team issued their [fourteenth
-report](COVID19group-2021-12-22.pdf) on the status of COVID-19 in British Columbia
-(December 22nd, 2021). This report focuses on the Omicron variant which poses a
-substantial risk for spreading rapidly in Canada, even among those fully
-vaccinated. In the video accompanying this report (to appear), [Dr. Eric
+report](COVID19group-2021-12-22.pdf) on the status of COVID-19 in British
+Columbia (December 22nd, 2021). This report focuses on the Omicron variant,
+which is spreading rapidly in Canada, even among those fully vaccinated. In the
+video accompanying this report (to appear), [Dr. Eric
 Cytrynbaum](/authors/cytryn/) walks you through the key results and highlights
 the take-home messages.
