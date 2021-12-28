@@ -23,8 +23,9 @@ featured: false
 summary: |
   With increasing demand for COVID testing, people throughout the province, as well
   as many Health Authorities, are increasingly turning to rapid antigen tests (RATs). 
-  Here, [Dr. Paul Tupper](/authors/pft3/) of the BC COVID-19 Modelling team describes the numbers behind the 
-  tests and how to interpret the results of a [RAT](/post/rapid-antigen-tests/COVID19group-RapidAntigenTests.pdf).
+  In these slides, [Dr. Paul Tupper](/authors/pft3/) of the BC COVID-19 Modelling team describes the numbers 
+  behind the tests and how to interpret the results of a [RAT](/post/rapid-antigen-tests/COVID19group-RapidAntigenTests.pdf), 
+  along with an accompanying video explainer by [Dr. Eric Cytrynbaum](/authors/cytryn/).
 url_slides: "COVID19group-RapidAntigenTests.pdf"
 
 # Featured image
