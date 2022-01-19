@@ -46,12 +46,12 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-# url_video: https://youtu.be/hfP6OOY6W2c
+url_video: https://youtu.be/DDojykVXqh8
 ---
 The BC COVID-19 Modelling team issued their [sixteenth
 report](COVID19group-2022-01-19.pdf) on the status of COVID-19 in British
 Columbia (January 19th, 2022). This report focuses on the Omicron variant,
 which is spreading rapidly in Canada, even among those fully vaccinated. In the
-video accompanying this report (to appear), [Dr. Eric
+video accompanying this report, [Dr. Eric
 Cytrynbaum](/authors/cytryn/) walks you through the key results and highlights
 the take-home messages.
