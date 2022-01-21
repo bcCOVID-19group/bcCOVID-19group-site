@@ -10,17 +10,18 @@ authors:
 superuser: false
 
 # Role/position
-role: PIMS Director
+role: Professor of Mathematics, University of British Columbia
 
 Organizations/Affiliations:
 organizations:
-- name: Pacific Institute for the Mathematical Sciences
-  url: "https://pims.math.ca"
 - name: University of British Columbia
   url: "https://math.ubc.ca"
+- name: Pacific Institute for the Mathematical Sciences
+  url: "https://pims.math.ca"
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: # James Colliander serves as the Director of the Pacific Institute for the Mathematical Sciences.
+bio: # James Colliander is a Professor of Mathematics at the University of British Columbia. He served as the Director of the Pacific Institute for the Mathematical Sciences during 2016-2021.
 
 interests:
 - PDE

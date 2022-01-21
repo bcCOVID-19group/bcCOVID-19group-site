@@ -43,6 +43,9 @@ social:
 - icon: globe
   icon_pack: fas
   link: http://www.sfu.ca/magpie/home.html
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:pft3@sfu.ca"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "pft3@sfu.ca"

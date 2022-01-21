@@ -52,11 +52,10 @@ hero_media = "nCoV-CDC-23312.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-The BC COVID-19 Modelling Group works on rapid response modelling of the COVID-19 pandemic, with a special focus on British Columbia and Canada.
+The BC COVID-19 Modelling Group works on rapid response modelling of the
+COVID-19 pandemic, with a special focus on British Columbia and Canada.
 
-The interdisciplinary Group was convened by [Caroline Colijn
-(SFU)](/authors/carolinecolijn/) and
-[Dan Coombs (UBC)](/authors/dancoombs/) with support from the
-[Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/).
-
-
+The interdisciplinary group, working independently from Government, includes
+experts in epidemiology, mathematics, and data analysis from UBC, SFU, UVic, and
+the private sector, with support from the [Pacific Institute for the Mathematical
+Sciences](https://www.pims.math.ca).
