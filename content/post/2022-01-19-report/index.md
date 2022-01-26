@@ -28,7 +28,9 @@ summary: |
   report](/post/2022-01-19-report/COVID19group-2022-01-19.pdf) on the status of
   COVID-19 in British Columbia (January 19th, 2022). This report focuses on the
   Omicron variant, which is spreading rapidly in Canada, even among those fully
-  vaccinated.
+  vaccinated. Erratum: Slide #17 was corrected (January 25th), because the wrong graph
+  was originally included on the right for Scenario #2 (with a mean hospital stay of 12 days 
+  rather than 6 days, as stated); the conclusions remain unaffected.
 url_slides: "COVID19group-2022-01-19.pdf"
 
 # Featured image
