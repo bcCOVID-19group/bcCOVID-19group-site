@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "COVID Model Projections - February 3, 2022"
+title: "COVID Model Projections - February 4, 2022"
 authors:
   - sallyotto
   - cytryn
@@ -19,17 +19,17 @@ authors:
 
 tags: ["epidemiology","reports"]
 categories: ["reports"]
-date: 2022-02-03T07:55:00-08:00
-publishDate: 2022-02-03T07:55:00-08:00
+date: 2022-02-04T07:55:00-08:00
+publishDate: 2022-02-04T07:55:00-08:00
 featured: true
 
 summary: |
   The BC COVID-19 Modelling team issued their [seventeenth
-  report](/post/2022-02-03-report/COVID19group-2022-02-03.pdf) on the status of
-  COVID-19 in British Columbia (February 3rd, 2022). This report focuses on the
+  report](/post/2022-02-04-report/COVID19group-2022-02-04.pdf) on the status of
+  COVID-19 in British Columbia (February 4th, 2022). This report focuses on the
   Omicron variant, which is spreading rapidly in Canada, even among those fully
   vaccinated. 
-url_slides: "COVID19group-2022-02-03.pdf"
+url_slides: "COVID19group-2022-02-04.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -49,8 +49,8 @@ projects: []
 # url_video: https://youtu.be/DDojykVXqh8
 ---
 The BC COVID-19 Modelling team issued their [seventeenth
-report](COVID19group-2022-02-03.pdf) on the status of COVID-19 in British
-Columbia (February 3rd, 2022). This report focuses on the Omicron variant,
+report](COVID19group-2022-02-04.pdf) on the status of COVID-19 in British
+Columbia (February 4th, 2022). This report focuses on the Omicron variant,
 which is spreading rapidly in Canada, even among those fully vaccinated. In the
 video accompanying this report (to appear), [Dr. Eric
 Cytrynbaum](/authors/cytryn/) walks you through the key results and highlights
