@@ -53,7 +53,7 @@ The BC COVID-19 Modelling team issued their [eighteenth
 report](COVID19group-2022-02-17.pdf) on the status of COVID-19 in British
 Columbia (February 17th, 2022). This report focuses on the Omicron variant,
 which is spreading rapidly in Canada, even among those fully vaccinated. In the
-video accompanying this report (to appear), [Dr. Eric
+video accompanying this report, [Dr. Eric
 Cytrynbaum](/authors/cytryn/) walks you through the key results and highlights
 the take-home messages.
 
