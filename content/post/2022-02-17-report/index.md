@@ -47,7 +47,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-#url_video: https://youtu.be/oOgaZPbQSig
+url_video: https://youtu.be/zbr6_H83orU
 ---
 The BC COVID-19 Modelling team issued their [eighteenth
 report](COVID19group-2022-02-17.pdf) on the status of COVID-19 in British
@@ -56,3 +56,8 @@ which is spreading rapidly in Canada, even among those fully vaccinated. In the
 video accompanying this report (to appear), [Dr. Eric
 Cytrynbaum](/authors/cytryn/) walks you through the key results and highlights
 the take-home messages.
+
+## Video
+<div class="youtube-container">
+<iframe src="https://www.youtube.com/embed/zbr6_H83orU"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe> </div>
+
