@@ -55,7 +55,7 @@ Columbia (February 17th, 2022). This report focuses on the Omicron variant,
 which is spreading rapidly in Canada, even among those fully vaccinated. In the
 video accompanying this report, [Dr. Eric
 Cytrynbaum](/authors/cytryn/) walks you through the key results and highlights
-the take-home messages.
+the take-home messages. UPDATED: Information about the spread of BA.2 in Alberta has been removed because samples were first typed by PCR and BA.2 preferentially sequenced (causing publicly available data to overestimate the current frequency of BA.2).
 
 ## Video
 <div class="youtube-container">
