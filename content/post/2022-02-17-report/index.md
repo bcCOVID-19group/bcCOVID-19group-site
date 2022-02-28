@@ -29,7 +29,7 @@ summary: |
   report](/post/2022-02-17-report/COVID19group-2022-02-17.pdf) on the status of
   COVID-19 in British Columbia (February 17th, 2022). This report focuses on the
   Omicron variant, which is spreading rapidly in Canada, even among those fully
-  vaccinated. 
+  vaccinated. UPDATED: Information about the spread of BA.2 in Alberta has been removed because samples were first typed by PCR and BA.2 preferentially sequenced (causing publicly available data to overestimate the current frequency of BA.2).
 url_slides: "COVID19group-2022-02-17.pdf"
 
 # Featured image
