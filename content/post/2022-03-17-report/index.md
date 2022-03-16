@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "COVID Model Projections - March 17, 2022"
 authors:
   - sallyotto
