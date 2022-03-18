@@ -18,8 +18,8 @@ authors:
 
 tags: ["epidemiology","reports"]
 categories: ["reports"]
-date: 2022-03-17T07:55:00-08:00
-publishDate: 2022-03-17T07:55:00-08:00
+date: 2022-03-17T07:55:00-07:00
+publishDate: 2022-03-17T07:55:00-07:00
 featured: true
 
 summary: |
