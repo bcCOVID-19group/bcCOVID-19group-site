@@ -45,7 +45,4 @@ The BC COVID-19 Modelling team issued their [nineteenth
 report](COVID19group-2022-03-17.pdf) on the status of COVID-19 in British
 Columbia (March 18th, 2022).  This report focuses on the Omicron variant, BA.2,
 which is rising rapidly in frequency and now accounts for ~50% of infections in
-Canada.  Nevertheless, numbers of BA.2 are roughly steady at the moment.  In the
-video accompanying this report (to appear), [Dr. Eric
-Cytrynbaum](/authors/cytryn/) walks you through the key results and highlights
-the take-home messages. 
+Canada.  Nevertheless, numbers of BA.2 are roughly steady at the moment. 
