@@ -24,9 +24,9 @@ featured: true
 summary: |
   The BC COVID-19 Modelling team issued their [twenty-second
   report](/post/2022-05-18-report/COVID19group-2022-05-18.pdf) on the status of
-  COVID-19 in British Columbia (May 18th, 2022). This report focuses on the
-  ongoing Omicron BA.2 wave and addresses the question of when it will peak and
-  how big its impact will be.
+  COVID-19 in British Columbia (May 18th, 2022).  This report focuses on the
+  ongoing Omicron BA.2 wave, which appears to have peaked in BC and elsewhere in
+  Canada, and examines data for new variants.
 
 url_slides: "COVID19group-2022-05-18.pdf"
 
@@ -41,8 +41,8 @@ projects: []
 ---
 The BC COVID-19 Modelling team issued their [twenty-second
 report](/post/2022-05-18-report/COVID19group-2022-05-18.pdf) on the status of
-COVID-19 in British Columbia (May 18th, 2022). This report focuses on the
-ongoing Omicron BA.2 wave and addresses the question of when it will peak and
-how big its impact will be. In the video accompanying this report (to appear),
-[Dr. Eric Cytrynbaum](/authors/cytryn/) walks you through the key results and
-highlights the take-home messages. 
+COVID-19 in British Columbia (May 18th, 2022).  This report focuses on the
+ongoing Omicron BA.2 wave, which appears to have peaked in BC and elsewhere in
+Canada, and examines data for new variants.  In the video accompanying this
+report (to appear), [Dr. Eric Cytrynbaum](/authors/cytryn/) walks you through
+the key results and highlights the take-home messages. 
