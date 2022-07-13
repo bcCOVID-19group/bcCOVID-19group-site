@@ -25,8 +25,7 @@ summary: |
   The BC COVID-19 Modelling team issued their [twenty-third
   report](/post/2022-07-13-report/COVID19group-2022-07-13.pdf) on the status of
   COVID-19 in British Columbia (July 13th, 2022).  This report focuses on the
-  ongoing Omicron BA.2 wave, which appears to have peaked in BC and elsewhere in
-  Canada, and examines data for new variants.
+  rising Omicron BA.5 wave, which is now the most frequent variant in BC and Canada.
 
 url_slides: "COVID19group-2022-07-13.pdf"
 
@@ -42,7 +41,7 @@ projects: []
 The BC COVID-19 Modelling team issued their [twenty-third
 report](/post/2022-07-13-report/COVID19group-2022-07-13.pdf) on the status of
 COVID-19 in British Columbia (July 13th, 2022).  This report focuses on the
-ongoing Omicron BA.2 wave, which appears to have peaked in BC and elsewhere in
-Canada, and examines data for new variants.  In the video accompanying this
-report (to appear), [Dr. Eric Cytrynbaum](/authors/cytryn/) walks you through
-the key results and highlights the take-home messages. 
+rising Omicron BA.5 wave, which is now the most frequent variant in BC and Canada.
+In the video accompanying this report (to appear), [Dr. Eric
+Cytrynbaum](/authors/cytryn/) walks you through the key results and highlights
+the take-home messages.
