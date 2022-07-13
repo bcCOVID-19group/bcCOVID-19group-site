@@ -18,7 +18,7 @@ authors:
 tags: ["epidemiology","reports"]
 categories: ["reports"]
 date: 2022-07-13T07:55:00-07:00
-publishDate: 2022-05-13T07:55:00-07:00
+publishDate: 2022-07-13T07:55:00-07:00
 featured: true
 
 summary: |
