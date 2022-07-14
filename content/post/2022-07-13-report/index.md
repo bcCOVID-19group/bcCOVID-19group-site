@@ -36,12 +36,18 @@ image:
 
 projects: []
 
-# url_video: https://youtu.be/zbr6_H83orU
+url_video: https://youtu.be/1mR8jZUne_E
 ---
 The BC COVID-19 Modelling team issued their [twenty-third
 report](/post/2022-07-13-report/COVID19group-2022-07-13.pdf) on the status of
 COVID-19 in British Columbia (July 13th, 2022).  This report focuses on the
 rising Omicron BA.5 wave, which is now the most frequent variant in BC and Canada.
-In the video accompanying this report (to appear), [Dr. Eric
+In the video accompanying this report, [Dr. Eric
 Cytrynbaum](/authors/cytryn/) walks you through the key results and highlights
 the take-home messages.
+
+<div class="youtube-container"> <iframe
+src="https://www.youtube.com/embed/1mR8jZUne_E" title="YouTube video player"
+frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+class="video"></iframe> </div>
