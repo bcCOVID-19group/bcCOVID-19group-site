@@ -36,7 +36,7 @@ image:
 
 projects: []
 
-url_video: https://youtu.be/1mR8jZUne_E
+#url_video: https://youtu.be/1mR8jZUne_E
 ---
 The BC COVID-19 Modelling team issued their [twenty-fourth
 report](/post/2022-08-17-report/COVID19group-2022-08-17.pdf) on the status of
