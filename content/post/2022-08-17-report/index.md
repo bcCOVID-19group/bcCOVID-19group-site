@@ -24,8 +24,7 @@ featured: true
 summary: |
   The BC COVID-19 Modelling team issued their [twenty-fourth
   report](/post/2022-08-17-report/COVID19group-2022-08-17.pdf) on the status of
-  COVID-19 in British Columbia (August 17th, 2022).  This report focuses on the
-  rising Omicron BA.5 wave, which is now the most frequent variant in BC and Canada.
+  COVID-19 in British Columbia (August 17th, 2022). This report shows that the Omicron BA.5 wave has peaked across much of Canada.  Nevertheless, risks of infection remain high, with infections likely 100-fold more common than reported cases at present.
 
 url_slides: "COVID19group-2022-08-17.pdf"
 
@@ -40,9 +39,7 @@ projects: []
 ---
 The BC COVID-19 Modelling team issued their [twenty-fourth
 report](/post/2022-08-17-report/COVID19group-2022-08-17.pdf) on the status of
-COVID-19 in British Columbia (August 17th, 2022).  This report focuses on the
-rising Omicron BA.5 wave, which is now the most frequent variant in BC and Canada.
-In the video accompanying this report, [Dr. Eric
-Cytrynbaum](/authors/cytryn/) walks you through the key results and highlights
-the take-home messages.
-
+COVID-19 in British Columbia (August 17th, 2022). This report shows that the
+Omicron BA.5 wave has peaked across much of Canada.  Nevertheless, risks of
+infection remain high, with infections likely 100-fold more common than reported
+cases at present.
