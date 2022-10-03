@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "An Online Tool to estimate the Vaccination Status of a Group"
+title: "An Online Tool to Estimate the Vaccination Status of a Group"
 subtitle: ""
 summary: ""
 authors: ["bryn wiley","dajmcdon","sallyotto"]
