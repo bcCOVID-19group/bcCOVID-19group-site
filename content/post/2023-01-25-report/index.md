@@ -1,5 +1,5 @@
 ---
-title: "COVID Model Projections - January 25, 2022"
+title: "COVID Model Projections - January 25, 2023"
 authors:
   - sallyotto
   - cytryn
