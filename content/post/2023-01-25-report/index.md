@@ -16,8 +16,11 @@ authors:
 
 tags: ["epidemiology","reports"]
 categories: ["reports"]
-date: 2023-01-25T07:55:00-08:00
-publishDate: 2023-01-25T07:55:00-08:00
+##
+## WARNING: NON STANDARD RELEASE TIME
+##
+date: 2023-01-25T21:55:00-08:00
+publishDate: 2023-01-25T21:55:00-08:00
 featured: true
 
 summary: |
