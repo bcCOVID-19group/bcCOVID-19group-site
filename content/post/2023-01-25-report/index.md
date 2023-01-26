@@ -23,14 +23,14 @@ featured: true
 summary: |
   The BC COVID-19 Modelling team issued their [twenty-seventh
   report](/post/2023-01-25-report/COVID19group-2023-01-25.pdf) on the status of
-  COVID-19 in British Columbia (January 25th, 2023).  Omicron continues to be
-  dominated by BA.5\* variants, particularly descendants like BQ.1\* that carry
-  many mutations that reduce antibody recognition. BQ.1\* has risen to an
-  estimated current frequency of 50% in BC and in Canada. Nevertheless, case
-  numbers are rising and falling in a manner that depends less on these variants
-  and more on population-level immunity and the waning of this immunity. This is
-  good news, suggesting that population-level immunity is largely protective
-  against BQ.1\* as well.
+  COVID-19 in British Columbia (January 25th, 2023).  SARS-CoV-2 lineages BQ.1
+  and XBB and their descendants, which carry several mutations reducing antibody
+  recognition, are the fastest spreading variants in Canada. BQ.1* has risen to
+  a current frequency of ~85% across the country. Case numbers are undergoing
+  only modest fluctuations, reflecting the rise and fall of population-level
+  immunity through infections, vaccinations, and waning. Models project future
+  declines in case numbers over the short term, with the rising tide of XBB.1.5
+  likely having only a modest impact.
 
 url_slides: "COVID19group-2023-01-25.pdf"
 
@@ -45,11 +45,11 @@ projects: []
 ---
 The BC COVID-19 Modelling team issued their [twenty-seventh
 report](/post/2023-01-25-report/COVID19group-2023-01-25.pdf) on the status of
-COVID-19 in British Columbia (January 25th, 2023).  Omicron continues to be
-dominated by BA.5\* variants, particularly descendants like BQ.1\* that carry
-many mutations that reduce antibody recognition. BQ.1\* has risen to an
-estimated current frequency of 50% in BC and in Canada. Nevertheless, case
-numbers are rising and falling in a manner that depends less on these variants
-and more on population-level immunity and the waning of this immunity. This is
-good news, suggesting that population-level immunity is largely protective
-against BQ.1\* as well.
+COVID-19 in British Columbia (January 25th, 2023).  SARS-CoV-2 lineages BQ.1 and
+XBB and their descendants, which carry several mutations reducing antibody
+recognition, are the fastest spreading variants in Canada. BQ.1* has risen to a
+current frequency of ~85% across the country. Case numbers are undergoing only
+modest fluctuations, reflecting the rise and fall of population-level immunity
+through infections, vaccinations, and waning. Models project future declines in
+case numbers over the short term, with the rising tide of XBB.1.5 likely having
+only a modest impact.
